@@ -68,7 +68,7 @@
     </item>
     
     <item>
-      <title>My week 2.05.2022 - 8.05.2022</title>
+      <title>My week 2.05.2022 - 8.05.2022 (Этап 3)</title>
       <link>https://example.com/post/getting-started-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
       <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/getting-started-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
@@ -143,6 +143,104 @@ These criteria eliminated every version-control system in use at the time, so im
 &lt;p&gt;On 17 December 2014, an exploit was found affecting the Windows and macOS versions of the Git client. An attacker could perform arbitrary code execution on a target computer with Git installed by creating a malicious Git tree (directory) named .git (a directory in Git repositories that stores all the data of the repository) in a different case (such as .GIT or .Git, needed because Git does not allow the all-lowercase version of .git to be created manually) with malicious files in the .git/hooks subdirectory (a folder with executable files that Git runs) on a repository that the attacker made or on a repository that the attacker can modify. If a Windows or Mac user pulls (downloads) a version of the repository with the malicious directory, then switches to that directory, the .git directory will be overwritten (due to the case-insensitive trait of the Windows and Mac filesystems) and the malicious executable files in .git/hooks may be run, which results in the attacker&amp;rsquo;s commands being executed. An attacker could also modify the .git/config configuration file, which allows the attacker to create malicious Git aliases (aliases for Git commands or external commands) or modify extant aliases to execute malicious commands when run. The vulnerability was patched in version 2.2.1 of Git, released on 17 December 2014, and announced the next day.&lt;/p&gt;
 &lt;p&gt;Git version 2.6.1, released on 29 September 2015, contained a patch for a security vulnerability (CVE-2015-7545) that allowed arbitrary code execution. The vulnerability was exploitable if an attacker could convince a victim to clone a specific URL, as the arbitrary commands were embedded in the URL itself. An attacker could use the exploit via a man-in-the-middle attack if the connection was unencrypted, as they could redirect the user to a URL of their choice. Recursive clones were also vulnerable, since they allowed the controller of a repository to specify arbitrary URLs via the gitmodules file.&lt;/p&gt;
 &lt;p&gt;Git uses SHA-1 hashes internally. Linus Torvalds has responded that the hash was mostly to guard against accidental corruption, and the security a cryptographically secure hash gives was just an accidental side effect, with the main security being signing elsewhere. Since a demonstration of the SHAttered attack against git in 2017, git was modified to use a SHA-1 variant resistant to this attack. A plan for hash function transition is being written since February 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My week 09.05.2022 - 15.05.2022 (Этап 4)</title>
+      <link>https://example.com/post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <description>&lt;h1 id=&#34;my-week-09052022---15052022&#34;&gt;My week 09.05.2022 - 15.05.2022&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;This week started with a holiday. This is the day of victory. On this day, I had a fairly rich program. It was on this day that I returned to Moscow after a vacation. On the evening of May 9, there was a stunning solute.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;2&#34; srcset=&#34;
+               /post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/2_hu6e87c2c510cc1d8701b1e07e118de19b_11689_3ee81e4edce5ef1d669a0c1eb9943913.webp 400w,
+               /post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/2_hu6e87c2c510cc1d8701b1e07e118de19b_11689_f18cc6342e6da3ce3701279d3729b0e5.webp 760w,
+               /post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/2_hu6e87c2c510cc1d8701b1e07e118de19b_11689_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/2_hu6e87c2c510cc1d8701b1e07e118de19b_11689_3ee81e4edce5ef1d669a0c1eb9943913.webp&#34;
+               width=&#34;250&#34;
+               height=&#34;250&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Then, after a week of rest, I started training. It was necessary to complete and hand over all the debts. I did two more OS labs in advance. On the OS, I learned to work with two editors vi and emacs.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;3&#34; srcset=&#34;
+               /post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/3_hu3471fac73aa742c0b3953b3fa3034252_166463_e36909ce5b25682f6353b7bb8e799153.webp 400w,
+               /post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/3_hu3471fac73aa742c0b3953b3fa3034252_166463_4e1f7b37028a02d0d3b1f2fb84172be4.webp 760w,
+               /post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/3_hu3471fac73aa742c0b3953b3fa3034252_166463_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/3_hu3471fac73aa742c0b3953b3fa3034252_166463_e36909ce5b25682f6353b7bb8e799153.webp&#34;
+               width=&#34;641&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;I also devoted a lot of time to French.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;1&#34; srcset=&#34;
+               /post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/1_hu564d71c140a870bcde8ba176f8141327_346121_a1dd28820ba38e6d9a2ac951b42137e0.webp 400w,
+               /post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/1_hu564d71c140a870bcde8ba176f8141327_346121_bec3e039053af2c65794dcb53a3a62d8.webp 760w,
+               /post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/1_hu564d71c140a870bcde8ba176f8141327_346121_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/1_hu564d71c140a870bcde8ba176f8141327_346121_a1dd28820ba38e6d9a2ac951b42137e0.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;This week has been quite productive.&lt;/p&gt;
 </description>
     </item>
     
