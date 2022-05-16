@@ -33,46 +33,6 @@
     </item>
     
     <item>
-      <title>Create a presentation</title>
-      <link>https://example.com/post/getting-started-3-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
-      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started-3-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
-      <description>&lt;h1 id=&#34;create-a-presentation&#34;&gt;&lt;strong&gt;Create a presentation&lt;/strong&gt;&lt;/h1&gt;
-&lt;hr&gt;
-&lt;p&gt;You can use the mardown markup language to run your presentation.&lt;/p&gt;
-&lt;p&gt;You can use Visual Studio Code to work with Markdown. Install the extension for working with Markdown.&lt;/p&gt;
-&lt;h1 id=&#34;presentation-settings&#34;&gt;&lt;strong&gt;Presentation settings&lt;/strong&gt;&lt;/h1&gt;
-&lt;hr&gt;
-&lt;p&gt;The presentation file must be named presentation.md and in the first line we specify the presentation settings&lt;/p&gt;
-&lt;!-- center code math uml theme:white --&gt;
-&lt;p&gt;&lt;em&gt;center&lt;/em&gt; - vertical centering of slide content;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;numbe&lt;/em&gt; - display the slide number;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;code&lt;/em&gt; - you can insert program codes, after : you can specify the style name (for example, code:vs2015, by default googlecode);&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;math&lt;/em&gt; - you can insert mathematical formulas;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;plot&lt;/em&gt; - you can insert graphs of functions;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;uml&lt;/em&gt; - you can insert UML diagrams, user interfaces and graphs;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;speadsheet&lt;/em&gt; - you can insert calculated tables;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;board&lt;/em&gt; - you can draw with a &amp;ldquo;marker&amp;rdquo; on the slide and draw with the mouse on the black board;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;audio&lt;/em&gt; - audio can be specified for each slide in the audio folder;&lt;/p&gt;
-&lt;p&gt;The file encoding must be UTF-8 and an appropriate editor (Far Manager editor, Notepad++) is required for input.&lt;/p&gt;
-&lt;p&gt;Sections in a presentation are entered with &amp;mdash; on a separate line. Transition between sections - left-right arrows.&lt;/p&gt;
-&lt;p&gt;Splitting into slides within a section - using &amp;ndash;. Transition between sections - up-down arrows.&lt;/p&gt;
-&lt;p&gt;Sequential paging of all slides - space.&lt;/p&gt;
-&lt;h1 id=&#34;text&#34;&gt;&lt;strong&gt;Text&lt;/strong&gt;&lt;/h1&gt;
-&lt;h1 id=&#34;paragraphs-code&#34;&gt;&lt;em&gt;Paragraphs (code)&lt;/em&gt;&lt;/h1&gt;
-&lt;p&gt;Paragraphs are created using an empty line. If around text top and bottom there are empty lines, then the text turns into a paragraph.&lt;/p&gt;
-&lt;p&gt;To force line splitting,\ you need to put a backslash \ at the end of the line.&lt;/p&gt;
-&lt;p&gt;You can highlight words with * and _. One character for italics, two characters for bold text, three characters for italic and bold at the same time. To strikethrough text, put two symbols ~ before and after the text.&lt;/p&gt;
-&lt;p&gt;Since presentations sometimes require more sophisticated selection methods, the ability to use CSS properties has been added to the language. To do this, select the text with two or three | and before the text we write CSS properties and their values ​​through ; and end with the symbol ∣.&lt;/p&gt;
-&lt;p&gt;It is recommended to use level 1 on the title slide for the name of the module (discipline), for the title of the presentation - level 2, for section headings - level 3, for headings of individual slides - level 4, for subheadings within the slide - level 5.&lt;/p&gt;
-&lt;h1 id=&#34;lists&#34;&gt;&lt;em&gt;Lists&lt;/em&gt;&lt;/h1&gt;
-&lt;p&gt;To create lists, use the symbols * or - or + or a number with a dot (for numbered lists) at the beginning of the line, before the nested items we put four spaces or a tab character. If at the beginning of a paragraph there are symbols * or - or + or a number with a dot, then it is also formatted as a list element.&lt;/p&gt;
-&lt;h1 id=&#34;quotes&#34;&gt;&lt;em&gt;Quotes&lt;/em&gt;&lt;/h1&gt;
-&lt;p&gt;Quotations are formatted using the &amp;gt; symbol.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>My week 09.05.2022 - 15.05.2022 (Этап 4)</title>
       <link>https://example.com/post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
       <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
@@ -167,6 +127,341 @@
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;This week has been quite productive.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report in markdown</title>
+      <link>https://example.com/post/getting-started-3-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started-3-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <description>&lt;h1 id=&#34;report-in-markdown&#34;&gt;&lt;strong&gt;Report in markdown&lt;/strong&gt;&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Report:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Title page&lt;/li&gt;
+&lt;li&gt;Content&lt;/li&gt;
+&lt;li&gt;Target&lt;/li&gt;
+&lt;li&gt;Theoretical introduction&lt;/li&gt;
+&lt;li&gt;Completing of the work&lt;/li&gt;
+&lt;li&gt;Conclusion&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt; is a lightweight markup language that is a tool for converting code to HTML.&lt;/p&gt;
+&lt;p&gt;The main feature of this language is the simplest syntax, which serves to simplify writing and reading markup code, which, in turn, makes it easy to correct it.&lt;/p&gt;
+&lt;p&gt;Now let&amp;rsquo;s take a closer look at the functions of the Markdown markup language.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Block elements&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Paragraphs and line breaks;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Headlines;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Quotes;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lists;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Code blocks;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Horizontal (dividing) lines.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Lowercase elements&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Links;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Text selection;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Code fragments of strings;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Images.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;syntax-description&#34;&gt;&lt;strong&gt;SYNTAX DESCRIPTION&lt;/strong&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;paragraphs-and-line-breaks&#34;&gt;Paragraphs and line breaks&lt;/h1&gt;
+&lt;p&gt;In order to create a paragraph using the syntax of the Markdown language, it is enough to separate the lines of text with one (or more) empty line (any line that contains nothing but spaces and tab characters is considered empty).&lt;/p&gt;
+&lt;p&gt;In order to insert a visible line break (the &lt;code&gt;&amp;lt;br/&amp;gt;&lt;/code&gt; element), you must end the line with two spaces and press the &amp;ldquo;Enter&amp;rdquo; key.&lt;/p&gt;
+&lt;p&gt;Many elements of the Markdown syntax look and work much better when they are formatted using &amp;ldquo;hard line translation&amp;rdquo; (line separation performed by the user himself, and not by the program automatically). Such elements include quotes, lists, etc.&lt;/p&gt;
+&lt;h1 id=&#34;headlines&#34;&gt;Headlines&lt;/h1&gt;
+&lt;p&gt;The Markdown markup language supports 2 styles of heading designations: underlining and highlighting with a symbol (&amp;quot;#&amp;quot;).&lt;/p&gt;
+&lt;p&gt;Headings are highlighted using underscores with equal signs (&amp;quot;=&amp;quot;) if the title is of the first level, and hyphens (&amp;quot;-&amp;quot;) if the title is of the second level. The number of underscores is not limited.&lt;/p&gt;
+&lt;p&gt;When selecting headers using the symbol (&amp;quot;#&amp;quot;), from one to six of these characters are used, which are set at the beginning of the line (before the header). In this case, the number of characters corresponds to the header level. In addition, it is possible to provide the title with closing characters (&amp;quot;#&amp;quot;), although this is not mandatory. The number of closing characters does not have to match the number of initial characters. The level of the header is determined by the number of initial characters.&lt;/p&gt;
+&lt;p&gt;The headings of the first and second levels, made using underscores, look like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;First level header
+========================
+Second level header
+-------------------------
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The headings of the first, third and sixth levels, made using the symbol (&amp;quot;#&amp;quot;), look like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;# First level header
+### Third level header
+###### Sixth level header
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The above headings made with the symbol (&amp;quot;#&amp;quot;) are identical to the following:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;# First level header #
+### Third level header ###
+###### Sixth level header ######
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;As a result, the following is displayed on the screen:&lt;/p&gt;
+&lt;h1 id=&#34;first-level-header&#34;&gt;First level header&lt;/h1&gt;
+&lt;h2 id=&#34;second-level-header&#34;&gt;Second level header&lt;/h2&gt;
+&lt;h1 id=&#34;first-level-header-1&#34;&gt;First level header&lt;/h1&gt;
+&lt;h3 id=&#34;third-level-header&#34;&gt;Third level header&lt;/h3&gt;
+&lt;h6 id=&#34;sixth-level-header&#34;&gt;Sixth level header&lt;/h6&gt;
+&lt;h1 id=&#34;quotes&#34;&gt;Quotes&lt;/h1&gt;
+&lt;p&gt;The Markdown language uses the &amp;ldquo;more&amp;rdquo; (&amp;quot;&amp;gt;&amp;quot;) sign to indicate quotations. It can be inserted both before each line of the quotation, and only before the first line of the paragraph.&lt;/p&gt;
+&lt;p&gt;Also, the Markdown syntax allows you to create nested quotes (quotes inside quotes). Additional levels of citation marks (&amp;quot;&amp;gt;&amp;quot;) are used to mark them.&lt;/p&gt;
+&lt;p&gt;Quotes in Markdown can contain all kinds of markup elements.&lt;/p&gt;
+&lt;p&gt;Quotes in the Markdown language look like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;gt;This is an example of a quote,
+&amp;gt; in which an angle bracket is placed before each line.
+
+&amp;gt;This is an example of a quote
+in which the angle bracket
+it is put only before the beginning of a new paragraph.
+&amp;gt;The second paragraph.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Embedding a quote into a quote looks like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;gt; First level of citation
+&amp;gt;&amp;gt; Second level of citation
+&amp;gt;&amp;gt;&amp;gt; Third level of citation
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;As a result, the following is displayed on the screen:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is an example quote,
+in which before each line
+an angle bracket is placed.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is an example of a quote
+in which an angle bracket
+is placed just before the beginning of a new paragraph.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The second paragraph.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Enclosed quote:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;First Citation level&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Second level of citation&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Third Citation Level&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;First Citation Level&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The citation level cannot exceed the 15th.&lt;/p&gt;
+&lt;h1 id=&#34;lists&#34;&gt;Lists&lt;/h1&gt;
+&lt;p&gt;Markdown supports ordered (numbered) and unordered (unnumbered) lists.&lt;/p&gt;
+&lt;p&gt;Markers such as asterisks, pluses and hyphens are used to form unordered lists. All the listed markers can be used interchangeably.&lt;/p&gt;
+&lt;p&gt;To form ordered lists, numbers with a dot are used as markers. An important feature in this case is that the numbers themselves, with which the list is formed, are not important, since they do not affect the output HTML code. No matter how the user numbers the list, the output will in any case have an ordered list starting with one (1, 2, 3 &amp;hellip;). This feature should be taken into account when it is necessary to use the ordinal numbers of elements in the list so that they correspond to the numbers obtained in HTML.&lt;/p&gt;
+&lt;p&gt;Ordered lists should always start with one. List markers usually start from the beginning of the line, however, they can be shifted, but not more than 3 spaces&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;1. Explorer
+2. Semiconductor
+3. Dielectric
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The unordered lists look like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;* Explorer
+* Semiconductor
+* Dielectric
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Or&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;- Guide
+- Semiconductor
+- Dielectric
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Or&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;+ Explorer
++ Semiconductor
++ Dielectric
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The output of all three listed options has the same result.&lt;/p&gt;
+&lt;p&gt;As a result, the following is displayed on the screen:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Explorer&lt;/li&gt;
+&lt;li&gt;Semiconductor&lt;/li&gt;
+&lt;li&gt;Dielectric&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;and&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Explorer&lt;/li&gt;
+&lt;li&gt;Semiconductor&lt;/li&gt;
+&lt;li&gt;Dielectric&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The quote inserted into the list looks like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;1. A list item with a quote:
+
+    &amp;gt; This is a quote
+    &amp;gt; inside the list item.
+
+2. The second item of the list
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;As a result, the following is displayed on the screen:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A list item with a quote:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a quote
+inside the list item.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;The second item of the list&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;When inserting quotes into the list items, it is important to keep in mind that the list items must be on the same level, and quotes must be indented. If the rule with a single list level is not followed, the next item in the list after the quote will be automatically numbered with the digit &amp;ldquo;1.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;In addition, if necessary, you can insert the source code into the list. In this case, it should be written with double indentation – 8 spaces or 2 tab characters.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;A list item containing the source code&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;source code &amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;code-blocks&#34;&gt;Code Blocks&lt;/h1&gt;
+&lt;p&gt;Formatted code blocks are used when it is necessary to quote the source code of programs or markup.&lt;/p&gt;
+&lt;p&gt;To create a block of code in the Markdown language, it is necessary to start each line of a paragraph with an indent consisting of four spaces or one tab character. The code block continues until there is a line without indentation (or the end of the text). Inside the code block, ampersands (&amp;quot;&amp;amp;&amp;quot;) and angle brackets (&amp;quot;&amp;lt;&amp;quot; and &amp;ldquo;&amp;gt;&amp;rdquo;) are automatically converted into HTML markup elements. In addition, it should be noted that inside the code blocks, the usual Markdown syntax is not processed.&lt;/p&gt;
+&lt;p&gt;The code block in Markdown looks like this:&lt;/p&gt;
+&lt;p&gt;This is a regular paragraph:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;This is a block of code
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;horizontal-lines-separators&#34;&gt;Horizontal lines (separators)&lt;/h1&gt;
+&lt;p&gt;In order to create a horizontal line using the Markdown syntax, you need to place three (or more)a hyphen or asterisk on a separate line of text.&lt;/p&gt;
+&lt;p&gt;It is possible to place spaces between them.&lt;/p&gt;
+&lt;p&gt;Horizontal lines in Markdown look like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;The first part of the text to be divided
+***
+The second part of the text that needs to be divided
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Or&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;The first part of the text to be divided
+---
+The second part of the text that needs to be divided
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;As a result, the following is displayed on the screen:&lt;/p&gt;
+&lt;p&gt;The first part of the text to be divided&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;The second part of the text that needs to be divided&lt;/p&gt;
+&lt;p&gt;When using this tool, it is important to remember that an empty line must be left after the first part of the text and before the second. This rule must be observed only when using hyphens. If it is not followed, the second-level header and a line of plain text will be displayed on the screen. When using the asterisk symbol, this rule can be ignored.&lt;/p&gt;
+&lt;h1 id=&#34;lowercase-elements&#34;&gt;&lt;strong&gt;Lowercase elements&lt;/strong&gt;&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
+&lt;p&gt;Markdown supports two styles of link design:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hyperlink, with immediate indication of the address (in-text);&lt;/li&gt;
+&lt;li&gt;A hyperlink similar to a footnote.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It is assumed that in addition to the URL, there is also a link text. It is enclosed in square brackets.&lt;/p&gt;
+&lt;p&gt;To create an in-text hyperlink, you must use parentheses immediately after the closing square one. You need to put a URL inside them. It is also possible to place the name enclosed in quotation marks in them, which will be displayed when hovering, but this item is not mandatory.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  [example](http://example.com / &amp;quot;Optional hint&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;As a result, the following is displayed on the screen: [example](&lt;a href=&#34;http://example.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://example.com&lt;/a&gt; / &amp;ldquo;Optional hint&amp;rdquo;)&lt;/p&gt;
+&lt;p&gt;When referring to a local directory, it is possible to use a relative path (from the current page, site, etc.)&lt;/p&gt;
+&lt;p&gt;When creating a passable hyperlink, a second pair of square brackets is used instead of the target address, inside which the label, the link identifier (id) is placed.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[example][id]:
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Also, you can use a space to separate 2 pairs of square brackets:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[example] [id]: 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;In this case, it is possible to determine the identifier anywhere in the document.:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[id]: http://example.com / &amp;quot;Optional hint&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;As a result, the following is displayed on the screen:&lt;/p&gt;
+&lt;p&gt;[example] [id]: &lt;a href=&#34;http://example.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://example.com&lt;/a&gt; / &amp;ldquo;Optional hint&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;In other words, it consists of the following elements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Link ID surrounded by square brackets (which may be preceded by an optional indentation from one to three spaces);&lt;/li&gt;
+&lt;li&gt;Colon;&lt;/li&gt;
+&lt;li&gt;One or more spaces (or tab characters);&lt;/li&gt;
+&lt;li&gt;Hyperlink URL;&lt;/li&gt;
+&lt;li&gt;Optional title (a hint to the image that pops up when you hover over it) of the hyperlink, enclosed either in double or single quotes, or in parentheses.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Link identifiers can consist of letters, numbers, spaces, and punctuation marks, but they are not case sensitive. That is, these two options are equivalent:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[link text][a]
+[link text][A]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Markdown also allows you to use an implicitly expressed identifier (abbreviated). In this case, the label is not given, instead the hyperlink text is used as its name, and the second pair of square brackets remains empty.&lt;/p&gt;
+&lt;p&gt;For example, to make the word &amp;ldquo;Example&amp;rdquo; a hyperlink leading to the site &amp;lt;http://example.com /&amp;gt;, it is enough to write:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[Example][]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;and then define the hyperlink:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[Example]: http://example.com/
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;As a result, the following is displayed on the screen:
+[Example][]
+[Example]: &lt;a href=&#34;http://example.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://example.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;text-selection&#34;&gt;Text selection&lt;/h1&gt;
+&lt;p&gt;Markdown perceives asterisks &amp;ldquo;*&amp;rdquo; and underscores &amp;ldquo;_&amp;rdquo; as signs of semantic text selection:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Text surrounded by single &amp;ldquo;*&amp;rdquo; or &amp;ldquo;_&amp;rdquo; will be enclosed in the HTML tag &lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Text surrounded by double &amp;ldquo;*&amp;rdquo; or &amp;ldquo;_&amp;rdquo; will be enclosed in the HTML tag &lt;code&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In other words, text surrounded by single characters is highlighted in italics, and text surrounded by double characters is highlighted in bold.&lt;/p&gt;
+&lt;p&gt;Also, the selected fragment can be located in any part of the word.&lt;/p&gt;
+&lt;p&gt;The text in italics using the Markdown syntax looks like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;*Example* 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;em&gt;Example&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The text in bold using the Markdown syntax looks like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;**Example**
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The text in italics in bold using the Markdown syntax looks like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;***Example***
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Example&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;All the above examples are similar to the following:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;_example_
+
+__example__
+
+Re___distribution___division
+
+___example___
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;code-fragments-of-strings&#34;&gt;Code fragments of strings&lt;/h1&gt;
+&lt;p&gt;To mark a line fragment containing the code, it is necessary to surround it with reverse apostrophes &amp;ldquo;`&amp;rdquo;. When using code fragments of strings, the text will be displayed as a monospaced font.&lt;/p&gt;
+&lt;p&gt;Unlike code blocks, a code fragment allows you to put the code inside a regular paragraph of text.
+The code fragment of a string in the Markdown language looks like this:&lt;/p&gt;
+&lt;p&gt;Use the &lt;code&gt;if&lt;/code&gt; operator&lt;/p&gt;
+&lt;h1 id=&#34;images&#34;&gt;Images&lt;/h1&gt;
+&lt;p&gt;There are 2 ways to insert images into a document in Markdown:&lt;/p&gt;
+&lt;p&gt;a. By directly specifying the URL of the image. The syntax of this command is as follows:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;![Alternative text](/path/to/image.jpg)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;or&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;![Alternative text](/path/to/image.jpg &amp;quot;Hint&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;In other words, it consists of the following elements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;exclamation mark;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;square brackets, which indicate the text alternative to the image (it will become the content of the attribute in the img element);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;parentheses containing the URL or relative path of the image, as well as (optionally) a tooltip enclosed in double or single quotes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;b. Using an identifier label. The syntax of this command is written as follows:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;![Alternative text][id]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;where &amp;ldquo;id&amp;rdquo; is the name of a specific image label. Image labels are defined using a syntax that is completely identical to hyperlink labels:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[id]: path/to/image &amp;quot;Optional hint&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;An important feature is that Markdown does not allow you to set image dimensions (width, height).&lt;/p&gt;
 </description>
     </item>
     
