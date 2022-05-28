@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Academic</title>
+    <link>https://galeginkikh.github.io/ru/project/</link>
+      <atom:link href="https://galeginkikh.github.io/ru/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 25 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://galeginkikh.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://galeginkikh.github.io/ru/project/</link>
+    </image>
+    
+    <item>
+      <title>Gamified habit tracker</title>
+      <link>https://galeginkikh.github.io/ru/project/example/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://galeginkikh.github.io/ru/project/example/</guid>
+      <description>&lt;p&gt;Habit trackers pop up in articles like this all the time. More often, only to-do list apps or instant messengers are mentioned. By tradition, they should appear in all such collections. So, make sure that they are not listed in my article and you can even double-check.&lt;/p&gt;
+&lt;p&gt;In the gamified habit tracker, you can take an unexpected twist by adding the following features:&lt;/p&gt;
+&lt;p&gt;bonuses and achievements (achievements) for those who completed the tracker;
+the emergence of new features as you use the application;
+competition among users who want to do X (for example, read 20 pages a day);
+quests where users have to follow a given habit formation process.&lt;/p&gt;
+&lt;p&gt;Our application should have a set of tools to further motivate users to develop a good habit. This is exactly what will distinguish your application from most other trackers.&lt;/p&gt;
+&lt;p&gt;Back- end programming skills: ⭐ ⭐ ⭐&lt;/p&gt;
+&lt;p&gt;Front-end programming skills: ⭐ ⭐ ⭐ ⭐&lt;/p&gt;
+&lt;p&gt;Ops skills (administration): ⭐ ⭐&lt;/p&gt;
+&lt;p&gt;Complexity: 💣 💣 💣&lt;/p&gt;
+&lt;p&gt;Profit potential: 💳 💳 💳&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

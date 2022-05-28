@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic</title>
+    <link>https://galeginkikh.github.io/ru/</link>
+      <atom:link href="https://galeginkikh.github.io/ru/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://galeginkikh.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Academic</title>
+      <link>https://galeginkikh.github.io/ru/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://galeginkikh.github.io/ru/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://galeginkikh.github.io/ru/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gamified habit tracker</title>
+      <link>https://galeginkikh.github.io/ru/project/example/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://galeginkikh.github.io/ru/project/example/</guid>
+      <description>&lt;p&gt;Habit trackers pop up in articles like this all the time. More often, only to-do list apps or instant messengers are mentioned. By tradition, they should appear in all such collections. So, make sure that they are not listed in my article and you can even double-check.&lt;/p&gt;
+&lt;p&gt;In the gamified habit tracker, you can take an unexpected twist by adding the following features:&lt;/p&gt;
+&lt;p&gt;bonuses and achievements (achievements) for those who completed the tracker;
+the emergence of new features as you use the application;
+competition among users who want to do X (for example, read 20 pages a day);
+quests where users have to follow a given habit formation process.&lt;/p&gt;
+&lt;p&gt;Our application should have a set of tools to further motivate users to develop a good habit. This is exactly what will distinguish your application from most other trackers.&lt;/p&gt;
+&lt;p&gt;Back- end programming skills: ⭐ ⭐ ⭐&lt;/p&gt;
+&lt;p&gt;Front-end programming skills: ⭐ ⭐ ⭐ ⭐&lt;/p&gt;
+&lt;p&gt;Ops skills (administration): ⭐ ⭐&lt;/p&gt;
+&lt;p&gt;Complexity: 💣 💣 💣&lt;/p&gt;
+&lt;p&gt;Profit potential: 💳 💳 💳&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My week 16.05.2022 - 22.05.2022 (Этап 5)</title>
+      <link>https://galeginkikh.github.io/ru/post/getting-started-5-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://galeginkikh.github.io/ru/post/getting-started-5-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <description>&lt;h2 id=&#34;my-week&#34;&gt;&lt;strong&gt;My week&lt;/strong&gt;&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;I did a lot of labs beforehand:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Learned to work in the emacs editor. Studied the basics of programming in the UNIX/Linux OS shell.&lt;/li&gt;
+&lt;li&gt;Learned to write small batch files.&lt;/li&gt;
+&lt;li&gt;Learned to write more complex batch files using logical control structures and cycles.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;1&#34; srcset=&#34;
+               /ru/post/getting-started-5-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/images/1_hu2911a1e140c08098424f827f76406561_98783_0857367d80d258ae7521a972c34f0528.webp 400w,
+               /ru/post/getting-started-5-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/images/1_hu2911a1e140c08098424f827f76406561_98783_6fcef1222ff2cc0f5b9e1f98b504d741.webp 760w,
+               /ru/post/getting-started-5-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/images/1_hu2911a1e140c08098424f827f76406561_98783_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://galeginkikh.github.io/ru/post/getting-started-5-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/images/1_hu2911a1e140c08098424f827f76406561_98783_0857367d80d258ae7521a972c34f0528.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;521&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Also wrote a paper on &amp;ldquo;Network topology&amp;rdquo;. This is quite an interesting topic to study.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;2&#34; srcset=&#34;
+               /ru/post/getting-started-5-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/images/2_huc5557d7784d054b5475a772a7f6eaebb_63151_794815310645d64cdef9bd24b5c1c32f.webp 400w,
+               /ru/post/getting-started-5-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/images/2_huc5557d7784d054b5475a772a7f6eaebb_63151_ef7302079f01c12c9a0a648d589f61bd.webp 760w,
+               /ru/post/getting-started-5-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/images/2_huc5557d7784d054b5475a772a7f6eaebb_63151_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://galeginkikh.github.io/ru/post/getting-started-5-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/images/2_huc5557d7784d054b5475a772a7f6eaebb_63151_794815310645d64cdef9bd24b5c1c32f.webp&#34;
+               width=&#34;709&#34;
+               height=&#34;721&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific programming languages</title>
+      <link>https://galeginkikh.github.io/ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://galeginkikh.github.io/ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <description>&lt;p&gt;A novice data scientist has the opportunity to choose from a variety of programming languages ​​that will help him master this science faster.&lt;/p&gt;
+&lt;p&gt;However, no one can tell you exactly which programming language is best suited for this purpose. Your success as a specialist in this field will depend on many factors, and today we will try to consider them, and at the end of the article you can vote for the programming language that you consider the most suitable for working with data.&lt;/p&gt;
+&lt;h1 id=&#34;specificity&#34;&gt;Specificity&lt;/h1&gt;
+&lt;p&gt;Be prepared for the fact that as you delve deeper into the field of data science, you will have to “reinvent the wheel” over and over again. In addition, you will need to become fluent in various software packages and modules for your chosen programming language. How well you can learn all this depends, first of all, on the availability of domain-specific software packages for the selected programming language.&lt;/p&gt;
+&lt;h1 id=&#34;versatility&#34;&gt;Versatility&lt;/h1&gt;
+&lt;p&gt;The Lead Data Scientist has good all-round programming skills, as well as the ability to perform calculations and analyzes. Much of the day-to-day work in data science is focused on finding and processing original data or correcting data. Unfortunately, no new machine learning packages will help you for these purposes.&lt;/p&gt;
+&lt;h1 id=&#34;efficiency&#34;&gt;Efficiency&lt;/h1&gt;
+&lt;p&gt;In the fast-paced world of commercial data science, there are plenty of opportunities to get the job you want quickly. However, it is precisely because of the rapid development of the field of data science that technical shortcomings constantly accompany it, and only persistent practice can minimize such shortcomings.&lt;/p&gt;
+&lt;h1 id=&#34;performance&#34;&gt;Performance&lt;/h1&gt;
+&lt;p&gt;In some cases, it is very important to optimize the performance of your code, especially when dealing with large amounts of critical data. However, compiled languages ​​are usually much faster than interpreted ones. Similarly, statically typed languages ​​are significantly more fault tolerant than dynamically typed ones. So the only tradeoff is performance degradation.&lt;/p&gt;
+&lt;p&gt;To some extent, each of the programming languages ​​below has one parameter in each of two groups: universality - specificity; performance is convenience.&lt;/p&gt;
+&lt;p&gt;With these basic principles in mind, let&amp;rsquo;s take a look at some of the more popular programming languages ​​that are used in data science. All information about the programming languages ​​below is based on my own observations and experience, as well as the experience of my friends and colleagues.&lt;/p&gt;
+&lt;h1 id=&#34;r&#34;&gt;&lt;strong&gt;R&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;2&#34; srcset=&#34;
+               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/2_hu232eb44fcb8648da2b10aac7471ced95_573388_98ec26ab2dcdddf53810bad3cc697ce3.webp 400w,
+               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/2_hu232eb44fcb8648da2b10aac7471ced95_573388_e7a152b032d4d4a5bdc3a3b46e741882.webp 760w,
+               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/2_hu232eb44fcb8648da2b10aac7471ced95_573388_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://galeginkikh.github.io/ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/2_hu232eb44fcb8648da2b10aac7471ced95_573388_98ec26ab2dcdddf53810bad3cc697ce3.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;589&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;R, which is a direct descendant of the older programming language S, was released back in 1995 and has been getting better ever since. Written in languages ​​such as C and Fortran, this project is now supported by the R Foundation for Statistical Computing.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Free&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;An excellent set of high quality open source domain-specific packages. R has packages at its disposal for just about every quantitative and statistical application imaginable. This includes neural networks, non-linear regression, phylogenetics, building complex diagrams, graphs, and much, much more.&lt;/li&gt;
+&lt;li&gt;Together with the basic installation in the appendage, we are given the opportunity to install extensive built-in functions and methods. Also, R handles matrix algebra data nicely.&lt;/li&gt;
+&lt;li&gt;The ability to visualize data is an important advantage, along with the ability to use various libraries, such as ggplot2.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Disadvantages:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Low performance. Nothing to say here: R is not a fast language.&lt;/li&gt;
+&lt;li&gt;Specificity. R is great for statistical research and data science, but it&amp;rsquo;s not as good when it comes to programming for general purposes.&lt;/li&gt;
+&lt;li&gt;Other features. R has several unusual features that can confuse programmers used to working with other languages: indexing starts at 1, multiple assignment operators, non-traditional data structures.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Our verdict is ideal for initial purposes&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;R is a powerful language that has a huge selection of data collection and data visualization applications, and the fact that it is an open source language allows it to garner a large following among developers. It was because of its effectiveness for the original purposes that this programming language managed to achieve wide popularity.&lt;/p&gt;
+&lt;h1 id=&#34;python&#34;&gt;&lt;strong&gt;Python&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;3&#34; srcset=&#34;
+               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/3_hueadeedd0aefea7f5be3157349013bfad_20579_f3287809e7424f62570df3ef3db3210b.webp 400w,
+               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/3_hueadeedd0aefea7f5be3157349013bfad_20579_a7853f3024463eb1f0894a92907366aa.webp 760w,
+               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/3_hueadeedd0aefea7f5be3157349013bfad_20579_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://galeginkikh.github.io/ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/3_hueadeedd0aefea7f5be3157349013bfad_20579_f3287809e7424f62570df3ef3db3210b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;330&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;In 1991, Guido van Rossum introduced the Python programming language. Since then, the language has become a hugely popular general-purpose language and is widely used in the data science community. Currently, the main versions are Python 3.6 and Python 2.7.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Free&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Python is a very popular, widely used general purpose programming language. It has an extensive set of specially designed modules and is widely used by developers. Many online services provide an API for Python.&lt;/li&gt;
+&lt;li&gt;Python is very easy to learn. The low barrier to entry makes it an ideal first language for those who are into programming.&lt;/li&gt;
+&lt;li&gt;Software packages such as pandas, scikit-learn, and Tensorflow make Python a solid choice for modern machine learning applications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Disadvantages:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Type safety. Python is a dynamically typed language, which means you have to be careful when working with it. Type mismatch errors (such as passing a string as an argument to a method that expects an integer) can happen from time to time.&lt;/li&gt;
+&lt;li&gt;For example, if there are specific goals for statistical analysis and data analysis, then the extensive set of packages of the R language gives it an advantage over Python. In addition, there are faster and safer alternatives to Python among programming languages.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Our verdict - Easy to&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;use Python is a good choice for data science purposes, and this statement holds true for both beginner and advanced levels of work in the field. Much of data science is centered around the ETL (extract-transform-load) process. This feature makes Python an ideal programming language for such purposes. Libraries like Google&amp;rsquo;s Tensorflow make Python a very interesting language to work in the field of machine learning.&lt;/p&gt;
+&lt;h1 id=&#34;sql&#34;&gt;&lt;strong&gt;SQL&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;4&#34; srcset=&#34;
+               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/4_huc69a800cdc07053622cec109bf871667_11756_ac9f5df227d985df55d5e5ce954f1f62.webp 400w,
+               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/4_huc69a800cdc07053622cec109bf871667_11756_914447ec6ca8dc3b7cccbffb21020d45.webp 760w,
+               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/4_huc69a800cdc07053622cec109bf871667_11756_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://galeginkikh.github.io/ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/4_huc69a800cdc07053622cec109bf871667_11756_ac9f5df227d985df55d5e5ce954f1f62.webp&#34;
+               width=&#34;600&#34;
+               height=&#34;315&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;SQL (&amp;ldquo;Structured Query Language&amp;rdquo;) defines, manages and queries relational databases. The language appeared in 1974 and since then has undergone many modifications, but its basic principles remain unchanged.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;There are free and paid options.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Advantages&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It is very effective when working with queries, updates, as well as when processing relational databases.&lt;/li&gt;
+&lt;li&gt;The declarative syntax makes SQL a very readable language. There is no ambiguity about what SELECT name FROM users WHERE age &amp;gt; 18 should do!&lt;/li&gt;
+&lt;li&gt;SQL is used very often in various applications, so getting to know it can be very useful. Modules like SQLAlchemy make it easy to integrate SQL with other languages.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Disadvantages:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SQL syntax can seem like a pretty daunting task for those used to imperative programming.&lt;/li&gt;
+&lt;li&gt;There are many different variations of SQL such as PostgreSQL, SQLite, MariaDB. All of them are quite different, so there can be no question of any compatibility.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Our verdict is efficient despite the time&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SQL is more useful as a data processing language than as an advanced analytics tool. However, so many data science processes depend on ETL, and the longevity and efficiency of SQL is yet another proof that every data scientist should know such a language.&lt;/p&gt;
+&lt;h1 id=&#34;java&#34;&gt;&lt;strong&gt;Java&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;5&#34; srcset=&#34;
+               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/5_hu2c0e77e28a13c324b6c194306a34447b_25531_469c020e337f5fe3e231b02eefa2b87f.webp 400w,
+               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/5_hu2c0e77e28a13c324b6c194306a34447b_25531_ca0397f67a1fd40adacbb656b543a8cd.webp 760w,
+               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/5_hu2c0e77e28a13c324b6c194306a34447b_25531_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://galeginkikh.github.io/ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/5_hu2c0e77e28a13c324b6c194306a34447b_25531_469c020e337f5fe3e231b02eefa2b87f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;399&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Java is an extremely popular general purpose language that runs on the Java Virtual Machine (JVM). It is an abstract computing system that allows for seamless portability across platforms. Currently supported by Oracle Corporation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;8th version - free&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Versatility. Many modern systems and applications are developed using the Java language. A huge advantage of such a PL is the ability to integrate data science methods directly into the existing code base.&lt;/li&gt;
+&lt;li&gt;Strict typing. Type safety is not an empty phrase for Java, and in the case of developing mission-critical applications for working with big data, this feature is more important than ever.&lt;/li&gt;
+&lt;li&gt;Java is a high performance, general purpose compiled language. This makes it suitable for writing efficient production ETL code as well as machine learning algorithms using computational tools.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Disadvantages:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The verbosity of the Java language makes it not a good choice for ad hoc analyzes and the development of more specialized statistical applications.&lt;/li&gt;
+&lt;li&gt;Java does not have many libraries for advanced statistical methods compared to some domain-specific languages ​​such as R.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Our verdict is a serious contender for the best language for data science work&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;There is a lot to be said for learning Java as a language for data science work. Many companies will appreciate the ability to seamlessly integrate the finished product code into their own code base, and the performance and type safety of Java are its undeniable advantages. However, the disadvantages of such a language include the fact that it does not have a set of specific packages that are available for other languages. Despite this shortcoming, Java is a programming language that you should definitely pay attention to, especially if you already know R or Python.&lt;/p&gt;
+&lt;h1 id=&#34;scala&#34;&gt;&lt;strong&gt;Scala&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;6&#34; srcset=&#34;
+               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/6_hu679d4a3d9fe32b65a50142d67d4ac95c_8603_9a05d9dfd56a8ba4e77ec555df74bb3d.webp 400w,
+               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/6_hu679d4a3d9fe32b65a50142d67d4ac95c_8603_3df4b524bcb153187755e7fa884f5ba7.webp 760w,
+               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/6_hu679d4a3d9fe32b65a50142d67d4ac95c_8603_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://galeginkikh.github.io/ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/6_hu679d4a3d9fe32b65a50142d67d4ac95c_8603_9a05d9dfd56a8ba4e77ec555df74bb3d.webp&#34;
+               width=&#34;635&#34;
+               height=&#34;282&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The JVM-based Scala programming language was developed by Martin Odersky in 2004. It is a multi-paradigm language that allows for both object-oriented and functional approaches. In addition, the Apache Spark cluster computing framework is written in Scala.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Free&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Using Scala and Spark, you have the opportunity to work with high-performance cluster computing. Scala is the perfect choice for those who work with large amounts of data.&lt;/li&gt;
+&lt;li&gt;Multiparadigmatic. For Scala programmers, both object-oriented and functional programming paradigms are available.&lt;/li&gt;
+&lt;li&gt;Scala compiles to Java bytecode and runs on the JVM. This allows it to interoperate with the Java language, making Scala a very powerful general purpose language. In addition, it is also well suited for data science jobs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Disadvantages:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If you are just going to work with Scala, then be prepared to pretty &amp;ldquo;break&amp;rdquo; your head. Your best bet is to download sbt and set up an IDE like Eclipse or IntelliJ with a dedicated Scala plugin.&lt;/li&gt;
+&lt;li&gt;There is an opinion that Scala&amp;rsquo;s syntax and type system are quite complex. Thus, programmers who are accustomed to working with dynamic languages ​​such as Python will have a hard time.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Our verdict is ideal for working with big data&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you decide to use cluster computing for working with big data, then Scala + Spark is the perfect solution. Moreover, if you already have experience with Java and other statically typed programming languages, then you will certainly appreciate these features of Scala. However, if your application doesn&amp;rsquo;t deal with large amounts of data that would justify adding all the Scala pieces, you&amp;rsquo;ll likely get better performance using other languages ​​like R or Python.&lt;/p&gt;
+&lt;h1 id=&#34;julia&#34;&gt;&lt;strong&gt;Julia&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;7&#34; srcset=&#34;
+               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/7_hu3374812572387c796995fbe5f5d38c5c_43090_1ae7e1b14f77ca66dced4e9df5470e21.webp 400w,
+               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/7_hu3374812572387c796995fbe5f5d38c5c_43090_afffe177ce428a0ed0b2421989c06069.webp 760w,
+               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/7_hu3374812572387c796995fbe5f5d38c5c_43090_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://galeginkikh.github.io/ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/7_hu3374812572387c796995fbe5f5d38c5c_43090_1ae7e1b14f77ca66dced4e9df5470e21.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;514&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Released just over 5 years ago, Julia made an impression on the world of computational methods. The language gained such popularity because several large organizations, including some in the financial industry, began using it for their own purposes almost immediately.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Free&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Julia is a JIT (just in time) compiled language that achieves good performance. This language is quite simple, it provides for the dynamic typing and scripting capabilities of an interpreted language such as Python.&lt;/li&gt;
+&lt;li&gt;Julia was intended for numerical analysis, it can also be considered as a general purpose programming language.&lt;/li&gt;
+&lt;li&gt;readability. Many programmers who work with the language consider this feature to be its greatest advantage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Disadvantages:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Immaturity. Since Julia is a fairly new language, some developers experience instability while working with its packages. However, the core features of the language are considered stable.&lt;/li&gt;
+&lt;li&gt;Another sign of the immaturity of the language is the limited number of software packages, as well as a small number of fans among developers. Unlike the established R and Python, the Julia programming language does not have a large number of software packages (yet).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Our verdict - a language that will show itself&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Yes, the main problem of the Julia language is its youth, but you can&amp;rsquo;t blame it for that. Since Julia was only recently created, it cannot yet compete with its main competitors, Python and R. Be patient and you will find that there are many reasons to pay close attention to this language, which is sure to make outstanding strides in the near future.&lt;/p&gt;
+&lt;h1 id=&#34;matlab&#34;&gt;&lt;strong&gt;MATLAB&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;8&#34; srcset=&#34;
+               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/8_hu59c4fbe749e0880d8c64686d514c1955_62343_b11f81714975ba922161c2f18760295d.webp 400w,
+               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/8_hu59c4fbe749e0880d8c64686d514c1955_62343_c14b848557400c2fae5a7b81af1ef99e.webp 760w,
+               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/8_hu59c4fbe749e0880d8c64686d514c1955_62343_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://galeginkikh.github.io/ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/8_hu59c4fbe749e0880d8c64686d514c1955_62343_b11f81714975ba922161c2f18760295d.webp&#34;
+               width=&#34;498&#34;
+               height=&#34;500&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;MATLAB is a recognized language for numerical calculations, used both for scientific purposes and in industry. It was developed and licensed by MathWorks, a company founded in 1984 with the primary goal of commercializing software.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Prices vary depending on the language option you choose&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MATLAB, designed for numerical computing, is well suited for using quantitative analysis with complex mathematical requirements such as signal processing, Fourier transforms, matrix algebra, and image processing.&lt;/li&gt;
+&lt;li&gt;Data visualization. MATLAB has a number of built-in plotting and charting capabilities.&lt;/li&gt;
+&lt;li&gt;MATLAB is often found in many undergraduate courses in the exact sciences, such as physics, engineering, and applied mathematics. Therefore, it is widely used in these areas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Disadvantages:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Paid license. Regardless of the option you choose (for scientific, personal or company purposes), you will have to fork out for an expensive license. Our advice: check out the free alternative - Octave.&lt;/li&gt;
+&lt;li&gt;MATLAB is not the best general purpose programming language.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Our verdict is the best option for purposes that require significant mathematical calculations&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Due to its wide use in various quantitative calculations for both scientific and industrial purposes, MATLAB has become a worthy option for data science applications. It will come in very handy if your daily goals require intensive, advanced mathematical functionality, in fact, for which MATLAB was designed.&lt;/p&gt;
+&lt;h1 id=&#34;other-languages&#34;&gt;&lt;strong&gt;Other languages&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;There are other popular PLs that may be of interest to data scientists. This section provides a brief overview of them.&lt;/p&gt;
+&lt;h1 id=&#34;c&#34;&gt;&lt;strong&gt;C++&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;Often, C++ is not used in the field of data science. However, it has lightning-fast performance and wide popularity. The main reason why C++ has not gained popularity in the field of data science is its inefficiency for such a purpose.&lt;/p&gt;
+&lt;p&gt;As one forum member wrote:
+“Suppose you are writing code to do some kind of custom analysis that will probably run only once. Now, would you rather spend 30 minutes creating a program that will run for 10 seconds or spend 10 minutes making a program that will run for 1 minute?”&lt;/p&gt;
+&lt;p&gt;And this guy is right! However, C++ would be an excellent choice for implementing low-level optimized machine learning algorithms.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Our verdict is not the best choice for daily work, but when it comes to performance&amp;hellip;&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;javascript&#34;&gt;&lt;strong&gt;JavaScript&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;As the Node.js platform has evolved over the past few years, the JavaScript programming language has become more and more of a server-side language. However, its capabilities in the field of data science and machine learning are rather modest today (still, don&amp;rsquo;t forget about brain.js and synaptic.js!). The disadvantages of JavaScript include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Too early for it to come into play (Node.js is only 8 years old!)&amp;hellip;&lt;/li&gt;
+&lt;li&gt;The Node.js platform is really fast, but there will always be those who will actively criticize JavaScript.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The undeniable advantages of Node.js include its asynchronous I/O, its growing popularity, and the fact that there are many languages ​​that compile with JavaScript. So it is quite possible that in the near future we will see a useful framework for data science work with the ability to process using ETL in real time. Another question: will it be relevant at that time &amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Our verdict - there is still a lot of work to be done in order for JavaScript to be considered a worthy language for working in the field of data science&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;perl&#34;&gt;&lt;strong&gt;Perl&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;Perl is known as the &amp;ldquo;Swiss army knife of programming languages&amp;rdquo; because of its versatility as a general-purpose scripting language. It shares many similarities with Python, being a dynamically typed scripting language. But it is still very far from the popularity that Python has in the field of data science.&lt;/p&gt;
+&lt;p&gt;This is a little surprising, given its applications in areas that use quantitative methods, such as bioinformatics. When it comes to data science, Perl has several drawbacks: it won&amp;rsquo;t quickly become popular in the field, and its syntax is considered unfriendly. In addition, there are no attempts by its developers to create libraries that could be used in the field of data science. And as you and I know: often everything is decided by the right actions at the right time.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Our verdict is a useful general-purpose scripting language, but it certainly won&amp;rsquo;t get you a data scientist job&amp;hellip;&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;ruby&#34;&gt;&lt;strong&gt;Ruby&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;Ruby is another dynamically typed general purpose interpreted language. However, it seems that its creators have no desire to make it suitable for data science jobs, as is the case with Python.&lt;/p&gt;
+&lt;p&gt;It may seem strange, but all of the above is in one way or another connected with the dominance of Python in the field of scientific research, as well as with the positive feedback from people who write in this language. The more people choose Python, the more modules and frameworks are developed for it, and the more programmers prefer Python. The SciRuby project was created to bring scientific computing functionality, such as matrix algebra, to Ruby. But, despite all these attempts, Python is still in the lead at the moment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Our verdict is not exactly the right choice for data science, but knowledge of Ruby will not hurt on your resume&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;conclusion&#34;&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;Well, here we are with you and reviewed a short guide to programming languages ​​that come closest to the field of data science. The important point here is understanding what you need more: the specificity or universality of the language, its convenience or efficiency.&lt;/p&gt;
+&lt;p&gt;I regularly use R, Python and SQL as my current work is mainly focused on developing existing data pipelines and ETL processes. These languages ​​strike the right balance of generality and efficiency to get the job done, with the ability to use more advanced R statistical packages when needed.&lt;/p&gt;
+&lt;p&gt;However, maybe you&amp;rsquo;re already pretty good at Java, or you can&amp;rsquo;t wait to try Scala&amp;rsquo;s big data action, or maybe you&amp;rsquo;re crazy about the Julia project.&lt;/p&gt;
+&lt;p&gt;Or maybe you crammed MATLAB in class at the institute, or would you like to give SciRuby a chance to prove yourself? Yes, you can have hundreds of different reasons! If so, then leave your comment below - because it is really important for us to know the opinion of each of you!&lt;/p&gt;
+&lt;h2 id=&#34;thank-you-for-your-attention&#34;&gt;&lt;strong&gt;Thank you for your attention!&lt;/strong&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My week 09.05.2022 - 15.05.2022 (Этап 4)</title>
+      <link>https://galeginkikh.github.io/ru/post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://galeginkikh.github.io/ru/post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <description>&lt;h1 id=&#34;my-week-09052022---15052022&#34;&gt;My week 09.05.2022 - 15.05.2022&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;This week started with a holiday. This is the day of victory. On this day, I had a fairly rich program. It was on this day that I returned to Moscow after a vacation. On the evening of May 9, there was a stunning solute.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;2&#34; srcset=&#34;
+               /ru/post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/2_hu6e87c2c510cc1d8701b1e07e118de19b_11689_23ff32988cd97aed524c68484d2cd598.webp 400w,
+               /ru/post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/2_hu6e87c2c510cc1d8701b1e07e118de19b_11689_f18cc6342e6da3ce3701279d3729b0e5.webp 760w,
+               /ru/post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/2_hu6e87c2c510cc1d8701b1e07e118de19b_11689_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://galeginkikh.github.io/ru/post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/2_hu6e87c2c510cc1d8701b1e07e118de19b_11689_23ff32988cd97aed524c68484d2cd598.webp&#34;
+               width=&#34;250&#34;
+               height=&#34;250&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Then, after a week of rest, I started training. It was necessary to complete and hand over all the debts. I did two more OS labs in advance. On the OS, I learned to work with two editors vi and emacs.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;3&#34; srcset=&#34;
+               /ru/post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/3_hu3471fac73aa742c0b3953b3fa3034252_166463_9f1650fc2fc2a9368644a071e5a24e2a.webp 400w,
+               /ru/post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/3_hu3471fac73aa742c0b3953b3fa3034252_166463_4e1f7b37028a02d0d3b1f2fb84172be4.webp 760w,
+               /ru/post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/3_hu3471fac73aa742c0b3953b3fa3034252_166463_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://galeginkikh.github.io/ru/post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/3_hu3471fac73aa742c0b3953b3fa3034252_166463_9f1650fc2fc2a9368644a071e5a24e2a.webp&#34;
+               width=&#34;641&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;I also devoted a lot of time to French.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;1&#34; srcset=&#34;
+               /ru/post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/1_hu564d71c140a870bcde8ba176f8141327_346121_00f0ea29c5075156db011cff814278a4.webp 400w,
+               /ru/post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/1_hu564d71c140a870bcde8ba176f8141327_346121_bec3e039053af2c65794dcb53a3a62d8.webp 760w,
+               /ru/post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/1_hu564d71c140a870bcde8ba176f8141327_346121_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://galeginkikh.github.io/ru/post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/1_hu564d71c140a870bcde8ba176f8141327_346121_00f0ea29c5075156db011cff814278a4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;This week has been quite productive.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report in markdown</title>
+      <link>https://galeginkikh.github.io/ru/post/getting-started-3-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://galeginkikh.github.io/ru/post/getting-started-3-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <description>&lt;h1 id=&#34;report-in-markdown&#34;&gt;&lt;strong&gt;Report in markdown&lt;/strong&gt;&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Report:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Title page&lt;/li&gt;
+&lt;li&gt;Content&lt;/li&gt;
+&lt;li&gt;Target&lt;/li&gt;
+&lt;li&gt;Theoretical introduction&lt;/li&gt;
+&lt;li&gt;Completing of the work&lt;/li&gt;
+&lt;li&gt;Conclusion&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt; is a lightweight markup language that is a tool for converting code to HTML.&lt;/p&gt;
+&lt;p&gt;The main feature of this language is the simplest syntax, which serves to simplify writing and reading markup code, which, in turn, makes it easy to correct it.&lt;/p&gt;
+&lt;p&gt;Now let&amp;rsquo;s take a closer look at the functions of the Markdown markup language.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Block elements&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Paragraphs and line breaks;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Headlines;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Quotes;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lists;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Code blocks;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Horizontal (dividing) lines.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Lowercase elements&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Links;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Text selection;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Code fragments of strings;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Images.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;syntax-description&#34;&gt;&lt;strong&gt;SYNTAX DESCRIPTION&lt;/strong&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;paragraphs-and-line-breaks&#34;&gt;Paragraphs and line breaks&lt;/h1&gt;
+&lt;p&gt;In order to create a paragraph using the syntax of the Markdown language, it is enough to separate the lines of text with one (or more) empty line (any line that contains nothing but spaces and tab characters is considered empty).&lt;/p&gt;
+&lt;p&gt;In order to insert a visible line break (the &lt;code&gt;&amp;lt;br/&amp;gt;&lt;/code&gt; element), you must end the line with two spaces and press the &amp;ldquo;Enter&amp;rdquo; key.&lt;/p&gt;
+&lt;p&gt;Many elements of the Markdown syntax look and work much better when they are formatted using &amp;ldquo;hard line translation&amp;rdquo; (line separation performed by the user himself, and not by the program automatically). Such elements include quotes, lists, etc.&lt;/p&gt;
+&lt;h1 id=&#34;headlines&#34;&gt;Headlines&lt;/h1&gt;
+&lt;p&gt;The Markdown markup language supports 2 styles of heading designations: underlining and highlighting with a symbol (&amp;quot;#&amp;quot;).&lt;/p&gt;
+&lt;p&gt;Headings are highlighted using underscores with equal signs (&amp;quot;=&amp;quot;) if the title is of the first level, and hyphens (&amp;quot;-&amp;quot;) if the title is of the second level. The number of underscores is not limited.&lt;/p&gt;
+&lt;p&gt;When selecting headers using the symbol (&amp;quot;#&amp;quot;), from one to six of these characters are used, which are set at the beginning of the line (before the header). In this case, the number of characters corresponds to the header level. In addition, it is possible to provide the title with closing characters (&amp;quot;#&amp;quot;), although this is not mandatory. The number of closing characters does not have to match the number of initial characters. The level of the header is determined by the number of initial characters.&lt;/p&gt;
+&lt;p&gt;The headings of the first and second levels, made using underscores, look like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;First level header
+========================
+Second level header
+-------------------------
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The headings of the first, third and sixth levels, made using the symbol (&amp;quot;#&amp;quot;), look like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;# First level header
+### Third level header
+###### Sixth level header
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The above headings made with the symbol (&amp;quot;#&amp;quot;) are identical to the following:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;# First level header #
+### Third level header ###
+###### Sixth level header ######
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;As a result, the following is displayed on the screen:&lt;/p&gt;
+&lt;h1 id=&#34;first-level-header&#34;&gt;First level header&lt;/h1&gt;
+&lt;h2 id=&#34;second-level-header&#34;&gt;Second level header&lt;/h2&gt;
+&lt;h1 id=&#34;first-level-header-1&#34;&gt;First level header&lt;/h1&gt;
+&lt;h3 id=&#34;third-level-header&#34;&gt;Third level header&lt;/h3&gt;
+&lt;h6 id=&#34;sixth-level-header&#34;&gt;Sixth level header&lt;/h6&gt;
+&lt;h1 id=&#34;quotes&#34;&gt;Quotes&lt;/h1&gt;
+&lt;p&gt;The Markdown language uses the &amp;ldquo;more&amp;rdquo; (&amp;quot;&amp;gt;&amp;quot;) sign to indicate quotations. It can be inserted both before each line of the quotation, and only before the first line of the paragraph.&lt;/p&gt;
+&lt;p&gt;Also, the Markdown syntax allows you to create nested quotes (quotes inside quotes). Additional levels of citation marks (&amp;quot;&amp;gt;&amp;quot;) are used to mark them.&lt;/p&gt;
+&lt;p&gt;Quotes in Markdown can contain all kinds of markup elements.&lt;/p&gt;
+&lt;p&gt;Quotes in the Markdown language look like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;gt;This is an example of a quote,
+&amp;gt; in which an angle bracket is placed before each line.
+
+&amp;gt;This is an example of a quote
+in which the angle bracket
+it is put only before the beginning of a new paragraph.
+&amp;gt;The second paragraph.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Embedding a quote into a quote looks like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;gt; First level of citation
+&amp;gt;&amp;gt; Second level of citation
+&amp;gt;&amp;gt;&amp;gt; Third level of citation
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;As a result, the following is displayed on the screen:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is an example quote,
+in which before each line
+an angle bracket is placed.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is an example of a quote
+in which an angle bracket
+is placed just before the beginning of a new paragraph.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The second paragraph.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Enclosed quote:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;First Citation level&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Second level of citation&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Third Citation Level&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;First Citation Level&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The citation level cannot exceed the 15th.&lt;/p&gt;
+&lt;h1 id=&#34;lists&#34;&gt;Lists&lt;/h1&gt;
+&lt;p&gt;Markdown supports ordered (numbered) and unordered (unnumbered) lists.&lt;/p&gt;
+&lt;p&gt;Markers such as asterisks, pluses and hyphens are used to form unordered lists. All the listed markers can be used interchangeably.&lt;/p&gt;
+&lt;p&gt;To form ordered lists, numbers with a dot are used as markers. An important feature in this case is that the numbers themselves, with which the list is formed, are not important, since they do not affect the output HTML code. No matter how the user numbers the list, the output will in any case have an ordered list starting with one (1, 2, 3 &amp;hellip;). This feature should be taken into account when it is necessary to use the ordinal numbers of elements in the list so that they correspond to the numbers obtained in HTML.&lt;/p&gt;
+&lt;p&gt;Ordered lists should always start with one. List markers usually start from the beginning of the line, however, they can be shifted, but not more than 3 spaces&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;1. Explorer
+2. Semiconductor
+3. Dielectric
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The unordered lists look like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;* Explorer
+* Semiconductor
+* Dielectric
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Or&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;- Guide
+- Semiconductor
+- Dielectric
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Or&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;+ Explorer
++ Semiconductor
++ Dielectric
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The output of all three listed options has the same result.&lt;/p&gt;
+&lt;p&gt;As a result, the following is displayed on the screen:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Explorer&lt;/li&gt;
+&lt;li&gt;Semiconductor&lt;/li&gt;
+&lt;li&gt;Dielectric&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;and&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Explorer&lt;/li&gt;
+&lt;li&gt;Semiconductor&lt;/li&gt;
+&lt;li&gt;Dielectric&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The quote inserted into the list looks like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;1. A list item with a quote:
+
+    &amp;gt; This is a quote
+    &amp;gt; inside the list item.
+
+2. The second item of the list
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;As a result, the following is displayed on the screen:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A list item with a quote:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a quote
+inside the list item.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;The second item of the list&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;When inserting quotes into the list items, it is important to keep in mind that the list items must be on the same level, and quotes must be indented. If the rule with a single list level is not followed, the next item in the list after the quote will be automatically numbered with the digit &amp;ldquo;1.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;In addition, if necessary, you can insert the source code into the list. In this case, it should be written with double indentation – 8 spaces or 2 tab characters.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;A list item containing the source code&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;source code &amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;code-blocks&#34;&gt;Code Blocks&lt;/h1&gt;
+&lt;p&gt;Formatted code blocks are used when it is necessary to quote the source code of programs or markup.&lt;/p&gt;
+&lt;p&gt;To create a block of code in the Markdown language, it is necessary to start each line of a paragraph with an indent consisting of four spaces or one tab character. The code block continues until there is a line without indentation (or the end of the text). Inside the code block, ampersands (&amp;quot;&amp;amp;&amp;quot;) and angle brackets (&amp;quot;&amp;lt;&amp;quot; and &amp;ldquo;&amp;gt;&amp;rdquo;) are automatically converted into HTML markup elements. In addition, it should be noted that inside the code blocks, the usual Markdown syntax is not processed.&lt;/p&gt;
+&lt;p&gt;The code block in Markdown looks like this:&lt;/p&gt;
+&lt;p&gt;This is a regular paragraph:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;This is a block of code
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;horizontal-lines-separators&#34;&gt;Horizontal lines (separators)&lt;/h1&gt;
+&lt;p&gt;In order to create a horizontal line using the Markdown syntax, you need to place three (or more)a hyphen or asterisk on a separate line of text.&lt;/p&gt;
+&lt;p&gt;It is possible to place spaces between them.&lt;/p&gt;
+&lt;p&gt;Horizontal lines in Markdown look like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;The first part of the text to be divided
+***
+The second part of the text that needs to be divided
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Or&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;The first part of the text to be divided
+---
+The second part of the text that needs to be divided
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;As a result, the following is displayed on the screen:&lt;/p&gt;
+&lt;p&gt;The first part of the text to be divided&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;The second part of the text that needs to be divided&lt;/p&gt;
+&lt;p&gt;When using this tool, it is important to remember that an empty line must be left after the first part of the text and before the second. This rule must be observed only when using hyphens. If it is not followed, the second-level header and a line of plain text will be displayed on the screen. When using the asterisk symbol, this rule can be ignored.&lt;/p&gt;
+&lt;h1 id=&#34;lowercase-elements&#34;&gt;&lt;strong&gt;Lowercase elements&lt;/strong&gt;&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
+&lt;p&gt;Markdown supports two styles of link design:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hyperlink, with immediate indication of the address (in-text);&lt;/li&gt;
+&lt;li&gt;A hyperlink similar to a footnote.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It is assumed that in addition to the URL, there is also a link text. It is enclosed in square brackets.&lt;/p&gt;
+&lt;p&gt;To create an in-text hyperlink, you must use parentheses immediately after the closing square one. You need to put a URL inside them. It is also possible to place the name enclosed in quotation marks in them, which will be displayed when hovering, but this item is not mandatory.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  [example](http://example.com / &amp;quot;Optional hint&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;As a result, the following is displayed on the screen: [example](&lt;a href=&#34;http://example.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://example.com&lt;/a&gt; / &amp;ldquo;Optional hint&amp;rdquo;)&lt;/p&gt;
+&lt;p&gt;When referring to a local directory, it is possible to use a relative path (from the current page, site, etc.)&lt;/p&gt;
+&lt;p&gt;When creating a passable hyperlink, a second pair of square brackets is used instead of the target address, inside which the label, the link identifier (id) is placed.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[example][id]:
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Also, you can use a space to separate 2 pairs of square brackets:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[example] [id]: 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;In this case, it is possible to determine the identifier anywhere in the document.:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[id]: http://example.com / &amp;quot;Optional hint&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;As a result, the following is displayed on the screen:&lt;/p&gt;
+&lt;p&gt;[example] [id]: &lt;a href=&#34;http://example.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://example.com&lt;/a&gt; / &amp;ldquo;Optional hint&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;In other words, it consists of the following elements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Link ID surrounded by square brackets (which may be preceded by an optional indentation from one to three spaces);&lt;/li&gt;
+&lt;li&gt;Colon;&lt;/li&gt;
+&lt;li&gt;One or more spaces (or tab characters);&lt;/li&gt;
+&lt;li&gt;Hyperlink URL;&lt;/li&gt;
+&lt;li&gt;Optional title (a hint to the image that pops up when you hover over it) of the hyperlink, enclosed either in double or single quotes, or in parentheses.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Link identifiers can consist of letters, numbers, spaces, and punctuation marks, but they are not case sensitive. That is, these two options are equivalent:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[link text][a]
+[link text][A]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Markdown also allows you to use an implicitly expressed identifier (abbreviated). In this case, the label is not given, instead the hyperlink text is used as its name, and the second pair of square brackets remains empty.&lt;/p&gt;
+&lt;p&gt;For example, to make the word &amp;ldquo;Example&amp;rdquo; a hyperlink leading to the site &amp;lt;http://example.com /&amp;gt;, it is enough to write:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[Example][]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;and then define the hyperlink:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[Example]: http://example.com/
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;As a result, the following is displayed on the screen:
+[Example][]
+[Example]: &lt;a href=&#34;http://example.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://example.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;text-selection&#34;&gt;Text selection&lt;/h1&gt;
+&lt;p&gt;Markdown perceives asterisks &amp;ldquo;*&amp;rdquo; and underscores &amp;ldquo;_&amp;rdquo; as signs of semantic text selection:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Text surrounded by single &amp;ldquo;*&amp;rdquo; or &amp;ldquo;_&amp;rdquo; will be enclosed in the HTML tag &lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Text surrounded by double &amp;ldquo;*&amp;rdquo; or &amp;ldquo;_&amp;rdquo; will be enclosed in the HTML tag &lt;code&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In other words, text surrounded by single characters is highlighted in italics, and text surrounded by double characters is highlighted in bold.&lt;/p&gt;
+&lt;p&gt;Also, the selected fragment can be located in any part of the word.&lt;/p&gt;
+&lt;p&gt;The text in italics using the Markdown syntax looks like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;*Example* 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;em&gt;Example&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The text in bold using the Markdown syntax looks like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;**Example**
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The text in italics in bold using the Markdown syntax looks like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;***Example***
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Example&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;All the above examples are similar to the following:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;_example_
+
+__example__
+
+Re___distribution___division
+
+___example___
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;code-fragments-of-strings&#34;&gt;Code fragments of strings&lt;/h1&gt;
+&lt;p&gt;To mark a line fragment containing the code, it is necessary to surround it with reverse apostrophes &amp;ldquo;`&amp;rdquo;. When using code fragments of strings, the text will be displayed as a monospaced font.&lt;/p&gt;
+&lt;p&gt;Unlike code blocks, a code fragment allows you to put the code inside a regular paragraph of text.
+The code fragment of a string in the Markdown language looks like this:&lt;/p&gt;
+&lt;p&gt;Use the &lt;code&gt;if&lt;/code&gt; operator&lt;/p&gt;
+&lt;h1 id=&#34;images&#34;&gt;Images&lt;/h1&gt;
+&lt;p&gt;There are 2 ways to insert images into a document in Markdown:&lt;/p&gt;
+&lt;p&gt;a. By directly specifying the URL of the image. The syntax of this command is as follows:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;![Alternative text](/path/to/image.jpg)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;or&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;![Alternative text](/path/to/image.jpg &amp;quot;Hint&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;In other words, it consists of the following elements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;exclamation mark;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;square brackets, which indicate the text alternative to the image (it will become the content of the attribute in the img element);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;parentheses containing the URL or relative path of the image, as well as (optionally) a tooltip enclosed in double or single quotes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;b. Using an identifier label. The syntax of this command is written as follows:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;![Alternative text][id]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;where &amp;ldquo;id&amp;rdquo; is the name of a specific image label. Image labels are defined using a syntax that is completely identical to hyperlink labels:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[id]: path/to/image &amp;quot;Optional hint&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;An important feature is that Markdown does not allow you to set image dimensions (width, height).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://galeginkikh.github.io/ru/post/getting-started-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F1/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://galeginkikh.github.io/ru/post/getting-started-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F1/</guid>
+      <description>&lt;h2 id=&#34;markdown&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Markdown&lt;/em&gt; — это облегченный язык разметки для создания форматированного текста с помощью текстового редактора. Джон Грубер и Аарон Шварц создали Markdown в 2004 году как язык разметки, привлекательный для читателей в форме исходного кода. Markdown широко используется в блогах, мгновенных сообщениях, онлайн-форумах, программном обеспечении для совместной работы, страницах документации и файлах readme.&lt;/p&gt;
+&lt;p&gt;Первоначальное описание Markdown содержало неясности и вызывало вопросы без ответов, в результате чего реализации как намеренно, так и случайно отличались от исходной версии. Это было решено в 2014 году, когда давние участники Markdown выпустили CommonMark, недвусмысленную спецификацию и набор тестов для Markdown.&lt;/p&gt;
+&lt;h2 id=&#34;история&#34;&gt;&lt;strong&gt;История&lt;/strong&gt;&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;В 2002 году Аарон Шварц создал atx, «настоящий структурированный текстовый формат». Затем Шварц и Грубер вместе работали над созданием языка Markdown в 2004 году с целью дать людям возможность «писать, используя удобный для чтения и написания простой текстовый формат, при необходимости конвертировать его в структурно допустимый XHTML (или HTML). )».&lt;/p&gt;
+&lt;p&gt;Ключевой целью его разработки была удобочитаемость, чтобы язык читался как есть, не выглядя так, как будто он был размечен тегами или инструкциями по форматированию, в отличие от текста, отформатированного с помощью языка разметки, такого как Rich Text Format (RTF) или HTML, который иметь очевидные теги и инструкции по форматированию. С этой целью его основным источником вдохновения являются существующие соглашения для разметки простого текста в электронной почте, хотя он также опирается на более ранние языки разметки, в частности, setext, Textile и reStructuredText.&lt;/p&gt;
+&lt;p&gt;Грубер написал Perl-скрипт Markdown.pl, который преобразует размеченный вводимый текст в допустимый, правильно сформированный XHTML или HTML и заменяет угловые скобки (&amp;lt;, &amp;gt;) и амперсанды (&amp;amp;) соответствующими ссылками на символьные сущности. Он может выполнять роль автономного скрипта, плагина для Blosxom или Movable Type или текстового фильтра для BBEdit.&lt;/p&gt;
+&lt;h2 id=&#34;рост-и-расхождение&#34;&gt;&lt;strong&gt;Рост и расхождение&lt;/strong&gt;&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;Поскольку популярность Markdown быстро росла, появилось множество реализаций Markdown, в основном из-за необходимости дополнительных функций, таких как таблицы, сноски, списки определений и Markdown внутри блоков HTML.&lt;/p&gt;
+&lt;p&gt;Поведение некоторых из них отличалось от эталонной реализации, поскольку Markdown характеризовался только неформальной спецификацией и реализацией Perl для преобразования в HTML.&lt;/p&gt;
+&lt;p&gt;В то же время внимание привлек ряд неясностей в неофициальной спецификации. Эти проблемы стимулировали создание таких инструментов, как Babelmark, для сравнения результатов различных реализаций, а также усилия некоторых разработчиков парсеров Markdown по стандартизации. Однако Грубер утверждал, что полная стандартизация была бы ошибкой: «Разные сайты (и люди) имеют разные потребности. Ни один синтаксис не сделает всех счастливыми».&lt;/p&gt;
+&lt;h2 id=&#34;стандартизация&#34;&gt;&lt;strong&gt;Стандартизация&lt;/strong&gt;&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;С 2012 года группа людей, включая Джеффа Этвуда и Джона Макфарлейна, запустила то, что Этвуд охарактеризовал как усилия по стандартизации. Веб-сайт сообщества теперь направлен на «документирование различных инструментов и ресурсов, доступных для авторов и разработчиков документов, а также для разработчиков различных реализаций Markdown». В сентябре 2014 года Грубер возражал против использования «Markdown» в названии этого проекта, и он был переименован в CommonMark. CommonMark.org опубликовал несколько версий спецификации, эталонную реализацию, набор тестов и «объявил об окончательной спецификации 1.0 и наборе тестов в 2019 году». С тех пор не было выпущено ни одной спецификации 1.0, поскольку основные проблемы все еще остаются нерешенными. Тем не менее, следующие сайты и проекты приняли CommonMark: Discourse, GitHub, GitLab, Reddit, Qt, Stack Exchange (Stack Overflow) и Swift.&lt;/p&gt;
+&lt;p&gt;В марте 2016 г. были опубликованы два соответствующих информационных RFC в Интернете:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;RFC 7763 представил текст/уценку типа MIME.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;В RFC 7764 обсуждались и регистрировались варианты MultiMarkdown, GitHub Flavored Markdown (GFM), Pandoc и Markdown Extra среди прочих.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;реализация&#34;&gt;&lt;strong&gt;Реализация&lt;/strong&gt;&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;Реализации Markdown доступны для более чем дюжины языков программирования; кроме того, многие платформы и фреймворки поддерживают Markdown. Например, плагины Markdown существуют для каждой крупной платформы для ведения блогов.&lt;/p&gt;
+&lt;p&gt;Хотя Markdown — это язык минимальной разметки, который читается и редактируется с помощью обычного текстового редактора, существуют специально разработанные редакторы для предварительного просмотра файлов со стилями, которые доступны для всех основных платформ. Многие текстовые редакторы и редакторы кода общего назначения имеют встроенные или доступные для загрузки плагины для подсветки синтаксиса для Markdown. Редакторы могут отображать окно предварительного просмотра рядом друг с другом или отображать код напрямую в режиме WYSIWYG.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;JotterPad&lt;/em&gt; — онлайн-редактор WYSIWYG, поддерживающий Markdown и Fountain.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Doxygen&lt;/em&gt; — генератор документации исходного кода, поддерживающий Markdown с дополнительными функциями.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;RStudio&lt;/em&gt; — IDE для R. Он предоставляет функцию-оболочку C++ для варианта уценки, который называется sundown.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;GitHub Flavored Markdown (GFM) игнорирует символы подчеркивания в словах и добавляет подсветку синтаксиса, списки задач и таблицы RMarkdown.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Nextcloud Notes&lt;/em&gt; — приложение по умолчанию для создания заметок на платформе Nextcloud поддерживает форматирование с использованием Markdown.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя неделя 2.05.2022 - 8.05.2022 (Этап 3)</title>
+      <link>https://galeginkikh.github.io/ru/post/getting-started-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://galeginkikh.github.io/ru/post/getting-started-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <description>&lt;h2 id=&#34;моя-неделя&#34;&gt;&lt;strong&gt;Моя неделя&lt;/strong&gt;&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;На этой неделе я поехала домой, отдыхала с семьей. В свободное время занималась саморазвитием, так как заранее сделала лабораторные работы. Я читала литературу по Unix. Было очень весело с моими лучшими друзьями.&lt;/p&gt;
+&lt;p&gt;Думаю, эта неделя прошла на 100%. Я очень хорошо отдохнула.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;1&#34; srcset=&#34;
+               /ru/post/getting-started-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/images/1_hu82fe5bf69b402c4322cc549e8ac8fbc2_27060_0f05c4d3ed0fce551ff318cfde2c3d0d.webp 400w,
+               /ru/post/getting-started-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/images/1_hu82fe5bf69b402c4322cc549e8ac8fbc2_27060_1b87acab4ec3ee7d374137f5f68980fa.webp 760w,
+               /ru/post/getting-started-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/images/1_hu82fe5bf69b402c4322cc549e8ac8fbc2_27060_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://galeginkikh.github.io/ru/post/getting-started-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/images/1_hu82fe5bf69b402c4322cc549e8ac8fbc2_27060_0f05c4d3ed0fce551ff318cfde2c3d0d.webp&#34;
+               width=&#34;600&#34;
+               height=&#34;400&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>https://galeginkikh.github.io/ru/post/getting-started/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://galeginkikh.github.io/ru/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;git&#34;&gt;&lt;strong&gt;Git&lt;/strong&gt;&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;Git — это программа для отслеживания изменений в любом наборе файлов, обычно используемая для координации работы программистов, совместно разрабатывающих исходный код во время разработки программного обеспечения. Его цели включают скорость, целостность данных и поддержку распределенных нелинейных рабочих процессов (тысячи параллельных ветвей, работающих в разных системах).&lt;/p&gt;
+&lt;h2 id=&#34;история&#34;&gt;&lt;strong&gt;История&lt;/strong&gt;&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;Разработка Git началась в апреле 2005 года, после того как многие разработчики ядра Linux отказались от доступа к BitKeeper, проприетарной системе управления исходным кодом (SCM), которую они использовали для поддержки проекта с 2002 года. Владелец авторских прав BitKeeper Ларри Маквой , отказалась от бесплатного использования продукта после того, как заявила, что Эндрю Триджелл создал SourcePuller путем обратного проектирования протоколов BitKeeper. Тот же самый инцидент подстегнул создание еще одной системы контроля версий, Mercurial.&lt;/p&gt;
+&lt;p&gt;Линусу Торвальдсу нужна была распределенная система, которую он мог бы использовать как BitKeeper, но ни одна из доступных бесплатных систем не соответствовала его потребностям. Торвальдс привел пример системы управления исходным кодом, которой требуется 30 секунд, чтобы применить исправление и обновить все связанные метаданные, и отметил, что это не соответствует потребностям разработки ядра Linux, где синхронизация с другими сопровождающими может потребовать 250 таких действий за раз. однажды. В качестве критерия дизайна он указал, что исправление должно занимать не более трех секунд, и добавил еще три цели:&lt;/p&gt;
+&lt;p&gt;Возьмем Систему параллельных версий (CVS) в качестве примера того, чего делать не следует; если сомневаетесь, примите прямо противоположное решение. Поддержка распределенного рабочего процесса, подобного BitKeeper. Включите очень надежные средства защиты от коррупции, как случайной, так и злонамеренной. Эти критерии исключали все системы контроля версий, использовавшиеся в то время, поэтому сразу после разработки ядра Linux 2.6.12-rc2 Торвальдс решил написать свою собственную.&lt;/p&gt;
+&lt;p&gt;Разработка Git началась 3 апреля 2005 года. Торвальдс объявил о проекте 6 апреля и на следующий день стал самостоятельным хостингом. Первое слияние нескольких филиалов состоялось 18 апреля. Торвальдс достиг поставленных целей; 29 апреля зарождающийся Git был протестирован с записью исправлений к дереву ядра Linux со скоростью 6,7 исправлений в секунду. 16 июня Git выпустил версию ядра 2.6.12.&lt;/p&gt;
+&lt;p&gt;26 июля 2005 года Торвальдс передал техническое обслуживание Хунио Хамано, одному из основных участников проекта. Хамано отвечал за выпуск 1.0 21 декабря 2005 г. и остается основным сопровождающим проекта.&lt;/p&gt;
+&lt;h2 id=&#34;дизайн&#34;&gt;&lt;strong&gt;Дизайн&lt;/strong&gt;&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;Дизайн Git был вдохновлен BitKeeper и Monotone. Git изначально разрабатывался как низкоуровневый движок системы контроля версий, поверх которого другие могли писать внешние интерфейсы, такие как Cogito или StGIT. С тех пор основной проект Git стал полноценной системой контроля версий, которую можно использовать напрямую. Несмотря на сильное влияние BitKeeper, Торвальдс сознательно избегал традиционных подходов, что привело к уникальному дизайну.&lt;/p&gt;
+&lt;h2 id=&#34;реализация&#34;&gt;&lt;strong&gt;Реализация&lt;/strong&gt;&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;Git (основная реализация на C) в основном разработан для Linux, хотя он также поддерживает большинство основных операционных систем, включая BSD (DragonFly BSD, FreeBSD, NetBSD и OpenBSD), Solaris, macOS и Windows.&lt;/p&gt;
+&lt;p&gt;Первый порт Git для Windows был в первую очередь фреймворком эмуляции Linux, на котором размещена версия Linux. При установке Git под Windows создается каталог Program Files с аналогичным названием, содержащий порт Mingw-w64 коллекции компиляторов GNU, Perl 5, MSYS2 (который сам является ответвлением Cygwin, Unix-подобной среды эмуляции для Windows) и различные другие порты или эмуляции Windows. утилит и библиотек Linux. В настоящее время собственные сборки Git для Windows распространяются в виде 32- и 64-разрядных установщиков. Официальный веб-сайт git в настоящее время поддерживает сборку Git для Windows, по-прежнему использующую среду MSYS2.&lt;/p&gt;
+&lt;p&gt;JGit-реализация Git — это программная библиотека на чистом языке Java, предназначенная для встраивания в любое приложение Java. JGit используется в инструменте проверки кода Gerrit и в EGit, клиенте Git для Eclipse IDE.&lt;/p&gt;
+&lt;p&gt;Go-git — это реализация Git с открытым исходным кодом, написанная на чистом Go. В настоящее время он используется для поддержки проектов в качестве интерфейса SQL для репозиториев кода Git и обеспечения шифрования для Git.&lt;/p&gt;
+&lt;p&gt;Реализация Git в Dulwich — это чистый программный компонент Python для Python 2.7, 3.4 и 3.5.&lt;/p&gt;
+&lt;p&gt;Реализация Git на libgit2 представляет собой программную библиотеку ANSI C без каких-либо других зависимостей, которую можно построить на нескольких платформах, включая Windows, Linux, macOS и BSD. Он имеет привязки для многих языков программирования, включая Ruby, Python и Haskell.&lt;/p&gt;
+&lt;p&gt;JS-Git — это реализация JavaScript подмножества Git.&lt;/p&gt;
+&lt;h2 id=&#34;безопасность&#34;&gt;&lt;strong&gt;Безопасность&lt;/strong&gt;&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;Git не предоставляет механизмов контроля доступа, но был разработан для работы с другими инструментами, специализирующимися на контроле доступа.&lt;/p&gt;
+&lt;p&gt;17 декабря 2014 года был обнаружен эксплойт, затрагивающий версии клиента Git для Windows и macOS. Злоумышленник может выполнить произвольный код на целевом компьютере с установленным Git, создав вредоносное дерево (каталог) Git с именем .git (каталог в репозиториях Git, в котором хранятся все данные репозитория) в другом случае (например, .GIT). или .Git, необходимо, потому что Git не позволяет вручную создавать версию .git со строчными буквами) с вредоносными файлами в подкаталоге .git/hooks (папка с исполняемыми файлами, которые запускает Git) в репозитории, созданном злоумышленником или в репозитории, который злоумышленник может изменить. Если пользователь Windows или Mac извлекает (загружает) версию репозитория с вредоносным каталогом, а затем переключается на этот каталог, файл . git будет перезаписан (из-за нечувствительности к регистру файловых систем Windows и Mac), и могут быть запущены вредоносные исполняемые файлы в .git/hooks, что приведет к выполнению команд злоумышленника. Злоумышленник также может изменить файл конфигурации .git/config, что позволяет злоумышленнику создавать вредоносные псевдонимы Git (псевдонимы для команд Git или внешних команд) или изменять существующие псевдонимы для выполнения вредоносных команд при запуске. Уязвимость была исправлена ​​в версии 2.2.1 Git, выпущенной 17 декабря 2014 года и объявленной на следующий день. который позволяет злоумышленнику создавать вредоносные псевдонимы Git (псевдонимы для команд Git или внешних команд) или изменять существующие псевдонимы для выполнения вредоносных команд при запуске. Уязвимость была исправлена ​​в версии 2.2.1 Git, выпущенной 17 декабря 2014 года и объявленной на следующий день. который позволяет злоумышленнику создавать вредоносные псевдонимы Git (псевдонимы для команд Git или внешних команд) или изменять существующие псевдонимы для выполнения вредоносных команд при запуске. Уязвимость была исправлена ​​в версии 2.2.1 Git, выпущенной 17 декабря 2014 года и объявленной на следующий день.&lt;/p&gt;
+&lt;p&gt;Версия Git 2.6.1, выпущенная 29 сентября 2015 г., содержала исправление для уязвимости системы безопасности (CVE-2015-7545), которая позволяла выполнять произвольный код. Уязвимость можно было использовать, если злоумышленник мог убедить жертву клонировать определенный URL-адрес, поскольку произвольные команды были встроены в сам URL-адрес. Злоумышленник может использовать эксплойт через атаку «человек посередине», если соединение не зашифровано, поскольку он может перенаправить пользователя на URL-адрес по своему выбору. Рекурсивные клоны также были уязвимы, поскольку позволяли контроллеру репозитория указывать произвольные URL-адреса через файл gitmodules.&lt;/p&gt;
+&lt;p&gt;Git использует хэши SHA-1 внутри. Линус Торвальдс ответил, что хэш в основном предназначался для защиты от случайного повреждения, а безопасность, которую дает криптографически безопасный хеш, была просто случайным побочным эффектом, при этом основная безопасность заключалась в подписи в другом месте. После демонстрации атаки SHAttered на git в 2017 году git был изменен для использования варианта SHA-1, устойчивого к этой атаке. План перехода на хеш-функцию пишется с февраля 2020 года.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://galeginkikh.github.io/ru/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://galeginkikh.github.io/ru/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://galeginkikh.github.io/ru/publication/example/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://galeginkikh.github.io/ru/publication/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://galeginkikh.github.io/ru/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://galeginkikh.github.io/ru/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
