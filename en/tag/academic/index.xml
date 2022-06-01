@@ -86,6 +86,56 @@
     </item>
     
     <item>
+      <title>My week 23.05.2022 - 29.05.2022 (Этап 6)</title>
+      <link>https://galeginkikh.github.io/en/post/getting-started-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F1-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://galeginkikh.github.io/en/post/getting-started-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F1-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <description>&lt;p&gt;This week, I completed Laboratory No. 11, 12, 13 and an Individual project stage 5.&lt;/p&gt;
+&lt;h1 id=&#34;laboratory-work-no-11&#34;&gt;Laboratory Work No. 11&lt;/h1&gt;
+&lt;p&gt;Studied the basics of programming in the UNIX OS shell. I learned how to write more complex command files using logical control constructs and loops.&lt;/p&gt;
+&lt;h1 id=&#34;laboratory-work-no-13&#34;&gt;Laboratory work No. 13.&lt;/h1&gt;
+&lt;p&gt;Acquired the simplest skills of developing, analyzing, testing and debugging applications in an OS like UNIX/Linux on the example of creating in a programming language With a calculator with the simplest functions.&lt;/p&gt;
+&lt;h1 id=&#34;individual-project-stage-5&#34;&gt;Individual project. Stage 5.&lt;/h1&gt;
+&lt;p&gt;I made notes on the project. I wrote a post on scientific programming languages&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://galeginkikh.github.io/en/post/getting-started-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F1-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://galeginkikh.github.io/en/post/getting-started-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F1-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <description>&lt;p&gt;Python is a high-level, interpreted, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.&lt;/p&gt;
+&lt;p&gt;Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a &amp;ldquo;batteries included&amp;rdquo; language due to its comprehensive standard library.&lt;/p&gt;
+&lt;p&gt;Guido van Rossum began working on Python in the late 1980s as a successor to the ABC programming language and first released it in 1991 as Python 0.9.0. Python 2.0 was released in 2000 and introduced new features such as list comprehensions, cycle-detecting garbage collection, reference counting, and Unicode support. Python 3.0, released in 2008, was a major revision that is not completely backward-compatible with earlier versions. Python 2 was discontinued with version 2.7.18 in 2020.&lt;/p&gt;
+&lt;p&gt;Python consistently ranks as one of the most popular programming languages.&lt;/p&gt;
+&lt;h1 id=&#34;history&#34;&gt;&lt;strong&gt;History&lt;/strong&gt;&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;Python was conceived in the late 1980s by Guido van Rossum at Centrum Wiskunde &amp;amp; Informatica (CWI) in the Netherlands as a successor to the ABC programming language, which was inspired by SETL, capable of exception handling and interfacing with the Amoeba operating system. Its implementation began in December 1989. Van Rossum shouldered sole responsibility for the project, as the lead developer, until 12 July 2018, when he announced his &amp;ldquo;permanent vacation&amp;rdquo; from his responsibilities as Python&amp;rsquo;s &amp;ldquo;benevolent dictator for life&amp;rdquo;, a title the Python community bestowed upon him to reflect his long-term commitment as the project&amp;rsquo;s chief decision-maker. In January 2019, active Python core developers elected a five-member Steering Council to lead the project.&lt;/p&gt;
+&lt;p&gt;Python 2.0 was released on 16 October 2000, with many major new features. Python 3.0, released on 3 December 2008, with many of its major features backported to Python 2.6.x and 2.7.x. Releases of Python 3 include the 2to3 utility, which automates the translation of Python 2 code to Python 3.&lt;/p&gt;
+&lt;p&gt;Python 2.7&amp;rsquo;s end-of-life was initially set for 2015, then postponed to 2020 out of concern that a large body of existing code could not easily be forward-ported to Python 3. No further security patches or other improvements will be released for it. With Python 2&amp;rsquo;s end-of-life, only Python 3.6.x and later were supported. Later, support for 3.6 was also discontinued. In 2021, Python 3.9.2 and 3.8.8 were expedited as all versions of Python (including 2.7) had security issues leading to possible remote code execution and web cache poisoning.&lt;/p&gt;
+&lt;p&gt;In 2022, Python 3.10.4 and 3.9.12 were expedited and so were older releases including 3.8.13, and 3.7.13 because of many security issues in 2022. Python 3.9.13 is the latest 3.9 version, and from now on 3.9 (and older; 3.8 and 3.7) will only get security updates.&lt;/p&gt;
+&lt;h1 id=&#34;development-environments&#34;&gt;&lt;strong&gt;Development environments&lt;/strong&gt;&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;Most Python implementations (including CPython) include a read–eval–print loop (REPL), permitting them to function as a command line interpreter for which users enter statements sequentially and receive results immediately.&lt;/p&gt;
+&lt;p&gt;Python also comes with an Integrated development environment (IDE) IDLE, which is more beginner-oriented.&lt;/p&gt;
+&lt;p&gt;Other shells, including IDLE and IPython, add further abilities such as improved auto-completion, session state retention and syntax highlighting.&lt;/p&gt;
+&lt;p&gt;As well as standard desktop integrated development environments, there are Web browser-based IDEs, including SageMath, for developing science- and math-related programs; PythonAnywhere, a browser-based IDE and hosting environment; and Canopy IDE, a commercial IDE emphasizing scientific computing.&lt;/p&gt;
+&lt;h1 id=&#34;uses&#34;&gt;&lt;strong&gt;Uses&lt;/strong&gt;&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;Python can serve as a scripting language for web applications, e.g., via mod_wsgi for the Apache webserver. With Web Server Gateway Interface, a standard API has evolved to facilitate these applications. Web frameworks like Django, Pylons, Pyramid, TurboGears, web2py, Tornado, Flask, Bottle, and Zope support developers in the design and maintenance of complex applications. Pyjs and IronPython can be used to develop the client-side of Ajax-based applications. SQLAlchemy can be used as a data mapper to a relational database. Twisted is a framework to program communications between computers, and is used (for example) by Dropbox.&lt;/p&gt;
+&lt;p&gt;Libraries such as NumPy, SciPy, and Matplotlib allow the effective use of Python in scientific computing, with specialized libraries such as Biopython and Astropy providing domain-specific functionality. SageMath is a computer algebra system with a notebook interface programmable in Python: its library covers many aspects of mathematics, including algebra, combinatorics, numerical mathematics, number theory, and calculus. OpenCV has Python bindings with a rich set of features for computer vision and image processing.&lt;/p&gt;
+&lt;p&gt;Python is commonly used in artificial intelligence projects and machine learning projects with the help of libraries like TensorFlow, Keras, Pytorch, and Scikit-learn. As a scripting language with a modular architecture, simple syntax, and rich text processing tools, Python is often used for natural language processing.&lt;/p&gt;
+&lt;p&gt;Python can also be used to create games, with libraries such as Pygame, which can make 2D games.&lt;/p&gt;
+&lt;p&gt;Python has been successfully embedded in many software products as a scripting language, including in finite element method software such as Abaqus, 3D parametric modeler like FreeCAD, 3D animation packages such as 3ds Max, Blender, Cinema 4D, Lightwave, Houdini, Maya, modo, MotionBuilder, Softimage, the visual effects compositor Nuke, 2D imaging programs like GIMP, Inkscape, Scribus and Paint Shop Pro, and musical notation programs like scorewriter and capella. GNU Debugger uses Python as a pretty printer to show complex structures such as C++ containers. Esri promotes Python as the best choice for writing scripts in ArcGIS. It has also been used in several video games, and has been adopted as first of the three available programming languages in Google App Engine, the other two being Java and Go.&lt;/p&gt;
+&lt;p&gt;Many operating systems include Python as a standard component. It ships with most Linux distributions, AmigaOS 4 (using Python 2.7), FreeBSD (as a package), NetBSD, and OpenBSD (as a package) and can be used from the command line (terminal). Many Linux distributions use installers written in Python: Ubuntu uses the Ubiquity installer, while Red Hat Linux and Fedora Linux use the Anaconda installer. Gentoo Linux uses Python in its package management system, Portage.&lt;/p&gt;
+&lt;p&gt;Python is used extensively in the information security industry, including in exploit development.&lt;/p&gt;
+&lt;p&gt;Most of the Sugar software for the One Laptop per Child XO, now[when?] developed at Sugar Labs, is written in Python. The Raspberry Pi single-board computer project has adopted Python as its main user-programming language.&lt;/p&gt;
+&lt;p&gt;LibreOffice includes Python and intends to replace Java with Python. Its Python Scripting Provider is a core feature since Version 4.0 from 7 February 2013.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Scientific programming languages</title>
       <link>https://galeginkikh.github.io/en/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>

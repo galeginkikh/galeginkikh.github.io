@@ -1,29 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Academic</title>
+    <title>Посты | Academic</title>
     <link>https://galeginkikh.github.io/ru/post/</link>
       <atom:link href="https://galeginkikh.github.io/ru/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 25 May 2022 00:00:00 +0000</lastBuildDate>
+    <description>Посты</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://galeginkikh.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Posts</title>
+      <title>Посты</title>
       <link>https://galeginkikh.github.io/ru/post/</link>
     </image>
     
     <item>
-      <title>My week 16.05.2022 - 22.05.2022 (Этап 5)</title>
+      <title>Моя неделя 23.05.2022 - 29.05.2022 (Этап 6)</title>
+      <link>https://galeginkikh.github.io/ru/post/getting-started-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F1-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://galeginkikh.github.io/ru/post/getting-started-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F1-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <description>&lt;p&gt;На этой неделе выполнила лабораторные №11, 12, 13 и Индивидуальный проект этап 5.&lt;/p&gt;
+&lt;h1 id=&#34;лабораторная-работа-11&#34;&gt;Лабораторная работа №11&lt;/h1&gt;
+&lt;p&gt;Изучила основы программирования в оболочке ОС UNIX. Научилась писать более сложные командные файлы с использованием логических управляющих конструкций и циклов.&lt;/p&gt;
+&lt;h1 id=&#34;лабораторная-работа-13&#34;&gt;Лабораторная работа №13.&lt;/h1&gt;
+&lt;p&gt;Приобрела простейшие навыки разработки, анализа, тестирования и отладки приложений в ОС типа UNIX/Linux на примере создания на языке программирования С калькулятора с простейшими функциями.&lt;/p&gt;
+&lt;h1 id=&#34;индивидуальны-проект-этап-5&#34;&gt;Индивидуальны проект. Этап 5.&lt;/h1&gt;
+&lt;p&gt;Я сделала заметки по проекту. Написала пост по языкам научного программирования&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://galeginkikh.github.io/ru/post/getting-started-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F1-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://galeginkikh.github.io/ru/post/getting-started-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F1-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <description>&lt;p&gt;Python — высокоуровневый язык программирования общего назначения с динамической строгой типизацией и автоматическим управлением памятью, ориентированный на повышение производительности разработчика, читаемости кода и его качества, а также на обеспечение переносимости написанных на нём программ. Язык является полностью объектно-ориентированным в том плане, что всё является объектами. Необычной особенностью языка является выделение блоков кода пробельными отступами. Синтаксис ядра языка минималистичен, за счёт чего на практике редко возникает необходимость обращаться к документации. Сам же язык известен как интерпретируемый и используется в том числе для написания скриптов. Недостатками языка являются зачастую более низкая скорость работы и более высокое потребление памяти написанных на нём программ по сравнению с аналогичным кодом, написанным на компилируемых языках, таких как C или C++.&lt;/p&gt;
+&lt;p&gt;Python является мультипарадигмальным языком программирования, поддерживающим императивное, процедурное, структурное, объектно-ориентированное программирование, метапрограммирование и функциональное программирование. Задачи обобщённого программирования решаются за счёт динамической типизации. Аспектно-ориентированное программирование частично поддерживается через декораторы, более полноценная поддержка обеспечивается дополнительными фреймворками. Такие методики как контрактное и логическое программирование можно реализовать с помощью библиотек или расширений. Основные архитектурные черты — динамическая типизация, автоматическое управление памятью, полная интроспекция, механизм обработки исключений, поддержка многопоточных вычислений с глобальной блокировкой интерпретатора (GIL), высокоуровневые структуры данных. Поддерживается разбиение программ на модули, которые, в свою очередь, могут объединяться в пакеты.&lt;/p&gt;
+&lt;p&gt;Эталонной реализацией Python является интерпретатор CPython, поддерживающий большинство активно используемых платформ и являющийся стандартом де-факто языка. Он распространяется под свободной лицензией Python Software Foundation License, позволяющей использовать его без ограничений в любых приложениях, включая проприетарные. CPython компилирует исходные тексты в высокоуровневый байт-код, который исполняется в стековой виртуальной машине. К другим трём основным реализациям языка относятся Jython (для JVM), IronPython (для CLR/.NET) и PyPy. PyPy написан на подмножестве языка Python (RPython) и разрабатывался как альтернатива CPython с целью повышения скорости исполнения программ, в том числе за счёт использования JIT-компиляции. Поддержка версии Python 2 закончилась в 2020 году. На текущий момент активно развивается версия языка Python 3. Разработка языка ведётся через предложения по расширению языка PEP (англ. Python Enhancement Proposal), в которых описываются нововведения, делаются корректировки согласно обратной связи от сообщества и документируются итоговые решения.&lt;/p&gt;
+&lt;p&gt;Стандартная библиотека включает большой набор полезных переносимых функций, начиная с возможностей для работы с текстом и заканчивая средствами для написания сетевых приложений. Дополнительные возможности, такие как математическое моделирование, работа с оборудованием, написание веб-приложений или разработка игр, могут реализовываться посредством обширного количества сторонних библиотек, а также интеграцией библиотек, написанных на Си или C++, при этом и сам интерпретатор Python может интегрироваться в проекты, написанные на этих языках. Существует и специализированный репозиторий программного обеспечения, написанного на Python, — PyPI. Данный репозиторий предоставляет средства для простой установки пакетов в операционную систему и стал стандартом де-факто для Python. По состоянию на 2019 год в нём содержалось более 175 тысяч пакетов.&lt;/p&gt;
+&lt;p&gt;Python стал одним из самых популярных языков, он используется в анализе данных, машинном обучении, DevOps и веб-разработке, а также в других сферах, включая разработку игр. За счёт читабельности, простого синтаксиса и отсутствия необходимости в компиляции язык хорошо подходит для обучения программированию, позволяя концентрироваться на изучении алгоритмов, концептов и парадигм. Отладка же и экспериментирование в значительной степени облегчаются тем фактом, что язык является интерпретируемым. Применяется язык многими крупными компаниями, такими как Google или Facebook. По состоянию на октябрь 2021 года Python занимает первое место в рейтинге TIOBE популярности языков программирования с показателем 11,27%. «Языком года» по версии TIOBE Python объявлялся в 2007, 2010, 2018 и 2020 годах.&lt;/p&gt;
+&lt;h1 id=&#34;история&#34;&gt;&lt;strong&gt;История&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;Задумка по реализации языка появилась в конце 1980-х годов, а разработка его реализации началась в 1989 году сотрудником голландского института CWI Гвидо ван Россумом. Для распределённой операционной системы Amoeba требовался расширяемый скриптовый язык, и Гвидо начал разрабатывать Python на досуге, позаимствовав некоторые наработки для языка ABC (Гвидо участвовал в разработке этого языка, ориентированного на обучение программированию). В феврале 1991 года Гвидо опубликовал исходный текст в группе новостей alt.sources. С самого начала Python проектировался как объектно-ориентированный язык.&lt;/p&gt;
+&lt;p&gt;Гвидо ван Россум назвал язык в честь популярного британского комедийного телешоу 1970-х «Летающий цирк Монти Пайтона», поскольку автор был поклонником этого телешоу, как и многие другие разработчики того времени, а в самом шоу прослеживалась некая параллель с миром компьютерной техники.&lt;/p&gt;
+&lt;p&gt;Наличие дружелюбного, отзывчивого сообщества пользователей считается, наряду с дизайнерской интуицией Гвидо, одним из факторов успеха Python. Развитие языка происходит согласно чётко регламентированному процессу создания, обсуждения, отбора и реализации документов PEP (англ. Python Enhancement Proposal) — предложений по развитию Python.&lt;/p&gt;
+&lt;p&gt;3 декабря 2008 года, после длительного тестирования, вышла первая версия Python 3000 (или Python 3.0, также используется сокращение Py3k). В Python 3000 устранены многие недостатки архитектуры с максимально возможным (но не полным) сохранением совместимости со старыми версиями Python.&lt;/p&gt;
+&lt;p&gt;Дата окончания срока поддержки Python 2.7 первоначально была установлена на 2015 год, а затем перенесена на 2020 год из опасения, что большая часть существующего кода не может быть легко перенесена на Python 3. Поддержка Python 2 была направлена лишь на уже существующие проекты, новые проекты должны были использовать Python 3. Больше никаких исправлений безопасности или других улучшений для Python 2.7 не будет выпущено. С окончанием срока службы Python 2.x поддерживаются только Python 3.6.x и более поздние версии.&lt;/p&gt;
+&lt;h1 id=&#34;применение&#34;&gt;&lt;strong&gt;Применение&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;Python — стабильный и распространённый язык. Он используется во многих проектах и в различных качествах: как основной язык программирования или для создания расширений и интеграции приложений. На Python реализовано большое количество проектов, также он активно используется для создания прототипов будущих программ.&lt;/p&gt;
+&lt;p&gt;Python является лёгким в изучении языком, и часто изучается как первый язык, в том числе используется при обучении детей программированию. Как первый язык он хорошо подходит, поскольку программы на нём близки к естественному языку, на котором люди привыкли думать, а для написания корректной программы требуется минимальное количество ключевых слов. В других же языках, таких как C++, существует большое количество различных синтаксических конструкций и элементов языка, которым приходится уделять внимание вместо изучения алгоритмов.&lt;/p&gt;
+&lt;p&gt;Являясь приложением с открытым исходным кодом, интерпретатор Python используется по всему миру и поставляется в составе операционных систем на базе Linux, а также в компьютерах от фирмы Apple. Python популярен среди индивидуальных разработчиков, но также используется крупными компаниями в достаточно серьёзных продуктах, ориентированных на получение прибыли. На Python написан Reddit. В Dropbox также активно применяется Python, а из-за сложностей динамической типизации и огромного количества кода компания перешла к статической типизации с помощью открытого проекта Mypy Также Python активно используется в Facebook и Instagram. Многие компании используют Python для тестирования аппаратного обеспечения, среди этих компаний значатся Intel, Cisco, Hewlett-Packard и IBM. Industrial Light &amp;amp; Magic и Pixar используют его при создании анимационных фильмов.&lt;/p&gt;
+&lt;p&gt;Язык активно используется компанией Google в её поисковой системе, а Youtube в значительной степени написан с использованием Python. Кроме того, Google спонсирует разработку Python с 2010 года, и поддержку PyPI, основной системы распространения пакетов для Python.&lt;/p&gt;
+&lt;p&gt;Сильными сторонами Python являются его модульность и возможность интегрироваться с другими языками программирования, в том числе в составе сложных комплексных приложений и систем. Сочетание простоты и лаконичности с большим количеством возможностей делает Python удобным в качестве скриптового языка[источник не указан 422 дня]. Многие проекты предоставляют прикладной интерфейс программирования на Python для написания скриптов, например, среды 3D-моделирования Autodesk Maya, Blender и Houdini, а также свободная геоинформационная система QGIS. Некоторые проекты реализуют базовую часть на более производительных языках программирования, а для упрощения работы предоставляют полноценный интерфейс прикладного программирования на Python[источник не указан 422 дня]. Так, движок свободного видеоредактора OpenShot реализован в виде библиотеки libopenshot, написанной на C++ с использованием библиотек на Си, а все возможности полностью покрыты прикладным интерфейсом программирования Python. Агентство национальной безопасности США использует Python для анализа данных, а NASA использует его при выполнении научных задач. Из инструментов, используемых в NASA, можно отметить свободный графический симулятор сети GNS3, который также хорошо зарекомендовал себя в корпоративной среде и используется в технологических компаниях, например, в Intel. На Python написана также свободная популярная программа нарезки 3D моделей для печати на 3D-принтерах Cura.&lt;/p&gt;
+&lt;p&gt;Python с пакетами NumPy, SciPy и MatPlotLib активно используется как универсальная среда для научных расчётов в качестве замены распространённым специализированным коммерческим пакетам, таким как Matlab, предоставляя аналогичную функциональность и более низкий порог вхождения. По большей части на Python написана также графическая программа Veusz  (англ.)рус., позволяющая создавать качественные графики, готовые для размещения в научных публикациях. Библиотека Astropy — популярный инструмент для астрономических расчётов.&lt;/p&gt;
+&lt;p&gt;Также Python подходит для выполнения нестандартных или сложных задач в системах сборки проектов, что обусловлено отсутствием необходимости предварительной компиляции исходных файлов. В проекте Google Test он используется для генерации исходного кода mock-объектов для классов языка C++.&lt;/p&gt;
+&lt;p&gt;Интерпретатор Python может использоваться в качестве мощной командной оболочки и скриптового языка для написания командных файлов ОС. Лёгкость обращения из Python-скриптов к внешним программам и наличие библиотек, дающих доступ к управлению системой, делают Python удобным инструментом для системного администрирования. Он широко используется для этой цели на платформе Linux: обычно Python поставляется с системой, во многих дистрибутивах инсталляторы и визуальный интерфейс системных утилит написаны именно на Python. Используется он и в администрировании других Unix-систем, в частности, в Solaris и macOS. Кроссплатформенность самого языка и библиотек делает его привлекательным для унифицированной автоматизации задач системного администрирования в гетерогенных средах, где совместно применяются компьютеры с операционными системами различных типов.&lt;/p&gt;
+&lt;p&gt;Будучи языком общего назначения Python применим почти во всех сферах деятельности. Фактически Python используется практически любой солидной компанией тем или иным образом как для выполнения текущих задач, так и в тестировании, администрировании или в разработке программных продуктов.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя неделя 16.05.2022 - 22.05.2022 (Этап 5)</title>
       <link>https://galeginkikh.github.io/ru/post/getting-started-5-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
       <guid>https://galeginkikh.github.io/ru/post/getting-started-5-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
-      <description>&lt;h2 id=&#34;my-week&#34;&gt;&lt;strong&gt;My week&lt;/strong&gt;&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;моя-неделя&#34;&gt;&lt;strong&gt;Моя неделя&lt;/strong&gt;&lt;/h2&gt;
 &lt;hr&gt;
-&lt;p&gt;I did a lot of labs beforehand:&lt;/p&gt;
+&lt;p&gt;Я заранее сделала много лабораторных:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Learned to work in the emacs editor. Studied the basics of programming in the UNIX/Linux OS shell.&lt;/li&gt;
-&lt;li&gt;Learned to write small batch files.&lt;/li&gt;
-&lt;li&gt;Learned to write more complex batch files using logical control structures and cycles.&lt;/li&gt;
+&lt;li&gt;Научилась работать в редакторе emacs. Изучала основы программирования в оболочке ОС UNIX/Linux.&lt;/li&gt;
+&lt;li&gt;Научилась писать небольшие пакетные файлы.&lt;/li&gt;
+&lt;li&gt;Научилась писать более сложные пакетные файлы, используя логические структуры управления и циклы.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;
 
@@ -53,7 +97,7 @@
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;Also wrote a paper on &amp;ldquo;Network topology&amp;rdquo;. This is quite an interesting topic to study.&lt;/p&gt;
+&lt;p&gt;Также написала статью на тему &amp;ldquo;Топология сети&amp;rdquo;. Это довольно интересная тема для изучения.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -86,379 +130,13 @@
     </item>
     
     <item>
-      <title>Scientific programming languages</title>
-      <link>https://galeginkikh.github.io/ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
-      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://galeginkikh.github.io/ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
-      <description>&lt;p&gt;A novice data scientist has the opportunity to choose from a variety of programming languages ​​that will help him master this science faster.&lt;/p&gt;
-&lt;p&gt;However, no one can tell you exactly which programming language is best suited for this purpose. Your success as a specialist in this field will depend on many factors, and today we will try to consider them, and at the end of the article you can vote for the programming language that you consider the most suitable for working with data.&lt;/p&gt;
-&lt;h1 id=&#34;specificity&#34;&gt;Specificity&lt;/h1&gt;
-&lt;p&gt;Be prepared for the fact that as you delve deeper into the field of data science, you will have to “reinvent the wheel” over and over again. In addition, you will need to become fluent in various software packages and modules for your chosen programming language. How well you can learn all this depends, first of all, on the availability of domain-specific software packages for the selected programming language.&lt;/p&gt;
-&lt;h1 id=&#34;versatility&#34;&gt;Versatility&lt;/h1&gt;
-&lt;p&gt;The Lead Data Scientist has good all-round programming skills, as well as the ability to perform calculations and analyzes. Much of the day-to-day work in data science is focused on finding and processing original data or correcting data. Unfortunately, no new machine learning packages will help you for these purposes.&lt;/p&gt;
-&lt;h1 id=&#34;efficiency&#34;&gt;Efficiency&lt;/h1&gt;
-&lt;p&gt;In the fast-paced world of commercial data science, there are plenty of opportunities to get the job you want quickly. However, it is precisely because of the rapid development of the field of data science that technical shortcomings constantly accompany it, and only persistent practice can minimize such shortcomings.&lt;/p&gt;
-&lt;h1 id=&#34;performance&#34;&gt;Performance&lt;/h1&gt;
-&lt;p&gt;In some cases, it is very important to optimize the performance of your code, especially when dealing with large amounts of critical data. However, compiled languages ​​are usually much faster than interpreted ones. Similarly, statically typed languages ​​are significantly more fault tolerant than dynamically typed ones. So the only tradeoff is performance degradation.&lt;/p&gt;
-&lt;p&gt;To some extent, each of the programming languages ​​below has one parameter in each of two groups: universality - specificity; performance is convenience.&lt;/p&gt;
-&lt;p&gt;With these basic principles in mind, let&amp;rsquo;s take a look at some of the more popular programming languages ​​that are used in data science. All information about the programming languages ​​below is based on my own observations and experience, as well as the experience of my friends and colleagues.&lt;/p&gt;
-&lt;h1 id=&#34;r&#34;&gt;&lt;strong&gt;R&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;2&#34; srcset=&#34;
-               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/2_hu232eb44fcb8648da2b10aac7471ced95_573388_98ec26ab2dcdddf53810bad3cc697ce3.webp 400w,
-               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/2_hu232eb44fcb8648da2b10aac7471ced95_573388_e7a152b032d4d4a5bdc3a3b46e741882.webp 760w,
-               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/2_hu232eb44fcb8648da2b10aac7471ced95_573388_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://galeginkikh.github.io/ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/2_hu232eb44fcb8648da2b10aac7471ced95_573388_98ec26ab2dcdddf53810bad3cc697ce3.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;589&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;R, which is a direct descendant of the older programming language S, was released back in 1995 and has been getting better ever since. Written in languages ​​such as C and Fortran, this project is now supported by the R Foundation for Statistical Computing.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Free&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;An excellent set of high quality open source domain-specific packages. R has packages at its disposal for just about every quantitative and statistical application imaginable. This includes neural networks, non-linear regression, phylogenetics, building complex diagrams, graphs, and much, much more.&lt;/li&gt;
-&lt;li&gt;Together with the basic installation in the appendage, we are given the opportunity to install extensive built-in functions and methods. Also, R handles matrix algebra data nicely.&lt;/li&gt;
-&lt;li&gt;The ability to visualize data is an important advantage, along with the ability to use various libraries, such as ggplot2.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Disadvantages:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Low performance. Nothing to say here: R is not a fast language.&lt;/li&gt;
-&lt;li&gt;Specificity. R is great for statistical research and data science, but it&amp;rsquo;s not as good when it comes to programming for general purposes.&lt;/li&gt;
-&lt;li&gt;Other features. R has several unusual features that can confuse programmers used to working with other languages: indexing starts at 1, multiple assignment operators, non-traditional data structures.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Our verdict is ideal for initial purposes&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;R is a powerful language that has a huge selection of data collection and data visualization applications, and the fact that it is an open source language allows it to garner a large following among developers. It was because of its effectiveness for the original purposes that this programming language managed to achieve wide popularity.&lt;/p&gt;
-&lt;h1 id=&#34;python&#34;&gt;&lt;strong&gt;Python&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;3&#34; srcset=&#34;
-               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/3_hueadeedd0aefea7f5be3157349013bfad_20579_f3287809e7424f62570df3ef3db3210b.webp 400w,
-               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/3_hueadeedd0aefea7f5be3157349013bfad_20579_a7853f3024463eb1f0894a92907366aa.webp 760w,
-               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/3_hueadeedd0aefea7f5be3157349013bfad_20579_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://galeginkikh.github.io/ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/3_hueadeedd0aefea7f5be3157349013bfad_20579_f3287809e7424f62570df3ef3db3210b.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;330&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;In 1991, Guido van Rossum introduced the Python programming language. Since then, the language has become a hugely popular general-purpose language and is widely used in the data science community. Currently, the main versions are Python 3.6 and Python 2.7.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Free&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Python is a very popular, widely used general purpose programming language. It has an extensive set of specially designed modules and is widely used by developers. Many online services provide an API for Python.&lt;/li&gt;
-&lt;li&gt;Python is very easy to learn. The low barrier to entry makes it an ideal first language for those who are into programming.&lt;/li&gt;
-&lt;li&gt;Software packages such as pandas, scikit-learn, and Tensorflow make Python a solid choice for modern machine learning applications.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Disadvantages:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Type safety. Python is a dynamically typed language, which means you have to be careful when working with it. Type mismatch errors (such as passing a string as an argument to a method that expects an integer) can happen from time to time.&lt;/li&gt;
-&lt;li&gt;For example, if there are specific goals for statistical analysis and data analysis, then the extensive set of packages of the R language gives it an advantage over Python. In addition, there are faster and safer alternatives to Python among programming languages.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Our verdict - Easy to&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;use Python is a good choice for data science purposes, and this statement holds true for both beginner and advanced levels of work in the field. Much of data science is centered around the ETL (extract-transform-load) process. This feature makes Python an ideal programming language for such purposes. Libraries like Google&amp;rsquo;s Tensorflow make Python a very interesting language to work in the field of machine learning.&lt;/p&gt;
-&lt;h1 id=&#34;sql&#34;&gt;&lt;strong&gt;SQL&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;4&#34; srcset=&#34;
-               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/4_huc69a800cdc07053622cec109bf871667_11756_ac9f5df227d985df55d5e5ce954f1f62.webp 400w,
-               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/4_huc69a800cdc07053622cec109bf871667_11756_914447ec6ca8dc3b7cccbffb21020d45.webp 760w,
-               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/4_huc69a800cdc07053622cec109bf871667_11756_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://galeginkikh.github.io/ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/4_huc69a800cdc07053622cec109bf871667_11756_ac9f5df227d985df55d5e5ce954f1f62.webp&#34;
-               width=&#34;600&#34;
-               height=&#34;315&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;SQL (&amp;ldquo;Structured Query Language&amp;rdquo;) defines, manages and queries relational databases. The language appeared in 1974 and since then has undergone many modifications, but its basic principles remain unchanged.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;There are free and paid options.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Advantages&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;It is very effective when working with queries, updates, as well as when processing relational databases.&lt;/li&gt;
-&lt;li&gt;The declarative syntax makes SQL a very readable language. There is no ambiguity about what SELECT name FROM users WHERE age &amp;gt; 18 should do!&lt;/li&gt;
-&lt;li&gt;SQL is used very often in various applications, so getting to know it can be very useful. Modules like SQLAlchemy make it easy to integrate SQL with other languages.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Disadvantages:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;SQL syntax can seem like a pretty daunting task for those used to imperative programming.&lt;/li&gt;
-&lt;li&gt;There are many different variations of SQL such as PostgreSQL, SQLite, MariaDB. All of them are quite different, so there can be no question of any compatibility.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Our verdict is efficient despite the time&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;SQL is more useful as a data processing language than as an advanced analytics tool. However, so many data science processes depend on ETL, and the longevity and efficiency of SQL is yet another proof that every data scientist should know such a language.&lt;/p&gt;
-&lt;h1 id=&#34;java&#34;&gt;&lt;strong&gt;Java&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;5&#34; srcset=&#34;
-               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/5_hu2c0e77e28a13c324b6c194306a34447b_25531_469c020e337f5fe3e231b02eefa2b87f.webp 400w,
-               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/5_hu2c0e77e28a13c324b6c194306a34447b_25531_ca0397f67a1fd40adacbb656b543a8cd.webp 760w,
-               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/5_hu2c0e77e28a13c324b6c194306a34447b_25531_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://galeginkikh.github.io/ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/5_hu2c0e77e28a13c324b6c194306a34447b_25531_469c020e337f5fe3e231b02eefa2b87f.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;399&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Java is an extremely popular general purpose language that runs on the Java Virtual Machine (JVM). It is an abstract computing system that allows for seamless portability across platforms. Currently supported by Oracle Corporation.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;8th version - free&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Versatility. Many modern systems and applications are developed using the Java language. A huge advantage of such a PL is the ability to integrate data science methods directly into the existing code base.&lt;/li&gt;
-&lt;li&gt;Strict typing. Type safety is not an empty phrase for Java, and in the case of developing mission-critical applications for working with big data, this feature is more important than ever.&lt;/li&gt;
-&lt;li&gt;Java is a high performance, general purpose compiled language. This makes it suitable for writing efficient production ETL code as well as machine learning algorithms using computational tools.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Disadvantages:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The verbosity of the Java language makes it not a good choice for ad hoc analyzes and the development of more specialized statistical applications.&lt;/li&gt;
-&lt;li&gt;Java does not have many libraries for advanced statistical methods compared to some domain-specific languages ​​such as R.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Our verdict is a serious contender for the best language for data science work&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;There is a lot to be said for learning Java as a language for data science work. Many companies will appreciate the ability to seamlessly integrate the finished product code into their own code base, and the performance and type safety of Java are its undeniable advantages. However, the disadvantages of such a language include the fact that it does not have a set of specific packages that are available for other languages. Despite this shortcoming, Java is a programming language that you should definitely pay attention to, especially if you already know R or Python.&lt;/p&gt;
-&lt;h1 id=&#34;scala&#34;&gt;&lt;strong&gt;Scala&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;6&#34; srcset=&#34;
-               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/6_hu679d4a3d9fe32b65a50142d67d4ac95c_8603_9a05d9dfd56a8ba4e77ec555df74bb3d.webp 400w,
-               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/6_hu679d4a3d9fe32b65a50142d67d4ac95c_8603_3df4b524bcb153187755e7fa884f5ba7.webp 760w,
-               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/6_hu679d4a3d9fe32b65a50142d67d4ac95c_8603_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://galeginkikh.github.io/ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/6_hu679d4a3d9fe32b65a50142d67d4ac95c_8603_9a05d9dfd56a8ba4e77ec555df74bb3d.webp&#34;
-               width=&#34;635&#34;
-               height=&#34;282&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;The JVM-based Scala programming language was developed by Martin Odersky in 2004. It is a multi-paradigm language that allows for both object-oriented and functional approaches. In addition, the Apache Spark cluster computing framework is written in Scala.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Free&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Using Scala and Spark, you have the opportunity to work with high-performance cluster computing. Scala is the perfect choice for those who work with large amounts of data.&lt;/li&gt;
-&lt;li&gt;Multiparadigmatic. For Scala programmers, both object-oriented and functional programming paradigms are available.&lt;/li&gt;
-&lt;li&gt;Scala compiles to Java bytecode and runs on the JVM. This allows it to interoperate with the Java language, making Scala a very powerful general purpose language. In addition, it is also well suited for data science jobs.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Disadvantages:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;If you are just going to work with Scala, then be prepared to pretty &amp;ldquo;break&amp;rdquo; your head. Your best bet is to download sbt and set up an IDE like Eclipse or IntelliJ with a dedicated Scala plugin.&lt;/li&gt;
-&lt;li&gt;There is an opinion that Scala&amp;rsquo;s syntax and type system are quite complex. Thus, programmers who are accustomed to working with dynamic languages ​​such as Python will have a hard time.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Our verdict is ideal for working with big data&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;If you decide to use cluster computing for working with big data, then Scala + Spark is the perfect solution. Moreover, if you already have experience with Java and other statically typed programming languages, then you will certainly appreciate these features of Scala. However, if your application doesn&amp;rsquo;t deal with large amounts of data that would justify adding all the Scala pieces, you&amp;rsquo;ll likely get better performance using other languages ​​like R or Python.&lt;/p&gt;
-&lt;h1 id=&#34;julia&#34;&gt;&lt;strong&gt;Julia&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;7&#34; srcset=&#34;
-               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/7_hu3374812572387c796995fbe5f5d38c5c_43090_1ae7e1b14f77ca66dced4e9df5470e21.webp 400w,
-               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/7_hu3374812572387c796995fbe5f5d38c5c_43090_afffe177ce428a0ed0b2421989c06069.webp 760w,
-               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/7_hu3374812572387c796995fbe5f5d38c5c_43090_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://galeginkikh.github.io/ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/7_hu3374812572387c796995fbe5f5d38c5c_43090_1ae7e1b14f77ca66dced4e9df5470e21.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;514&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Released just over 5 years ago, Julia made an impression on the world of computational methods. The language gained such popularity because several large organizations, including some in the financial industry, began using it for their own purposes almost immediately.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Free&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Julia is a JIT (just in time) compiled language that achieves good performance. This language is quite simple, it provides for the dynamic typing and scripting capabilities of an interpreted language such as Python.&lt;/li&gt;
-&lt;li&gt;Julia was intended for numerical analysis, it can also be considered as a general purpose programming language.&lt;/li&gt;
-&lt;li&gt;readability. Many programmers who work with the language consider this feature to be its greatest advantage.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Disadvantages:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Immaturity. Since Julia is a fairly new language, some developers experience instability while working with its packages. However, the core features of the language are considered stable.&lt;/li&gt;
-&lt;li&gt;Another sign of the immaturity of the language is the limited number of software packages, as well as a small number of fans among developers. Unlike the established R and Python, the Julia programming language does not have a large number of software packages (yet).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Our verdict - a language that will show itself&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Yes, the main problem of the Julia language is its youth, but you can&amp;rsquo;t blame it for that. Since Julia was only recently created, it cannot yet compete with its main competitors, Python and R. Be patient and you will find that there are many reasons to pay close attention to this language, which is sure to make outstanding strides in the near future.&lt;/p&gt;
-&lt;h1 id=&#34;matlab&#34;&gt;&lt;strong&gt;MATLAB&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;8&#34; srcset=&#34;
-               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/8_hu59c4fbe749e0880d8c64686d514c1955_62343_b11f81714975ba922161c2f18760295d.webp 400w,
-               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/8_hu59c4fbe749e0880d8c64686d514c1955_62343_c14b848557400c2fae5a7b81af1ef99e.webp 760w,
-               /ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/8_hu59c4fbe749e0880d8c64686d514c1955_62343_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://galeginkikh.github.io/ru/post/getting-started-4-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/image/8_hu59c4fbe749e0880d8c64686d514c1955_62343_b11f81714975ba922161c2f18760295d.webp&#34;
-               width=&#34;498&#34;
-               height=&#34;500&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;MATLAB is a recognized language for numerical calculations, used both for scientific purposes and in industry. It was developed and licensed by MathWorks, a company founded in 1984 with the primary goal of commercializing software.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;License:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Prices vary depending on the language option you choose&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;MATLAB, designed for numerical computing, is well suited for using quantitative analysis with complex mathematical requirements such as signal processing, Fourier transforms, matrix algebra, and image processing.&lt;/li&gt;
-&lt;li&gt;Data visualization. MATLAB has a number of built-in plotting and charting capabilities.&lt;/li&gt;
-&lt;li&gt;MATLAB is often found in many undergraduate courses in the exact sciences, such as physics, engineering, and applied mathematics. Therefore, it is widely used in these areas.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Disadvantages:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Paid license. Regardless of the option you choose (for scientific, personal or company purposes), you will have to fork out for an expensive license. Our advice: check out the free alternative - Octave.&lt;/li&gt;
-&lt;li&gt;MATLAB is not the best general purpose programming language.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Our verdict is the best option for purposes that require significant mathematical calculations&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Due to its wide use in various quantitative calculations for both scientific and industrial purposes, MATLAB has become a worthy option for data science applications. It will come in very handy if your daily goals require intensive, advanced mathematical functionality, in fact, for which MATLAB was designed.&lt;/p&gt;
-&lt;h1 id=&#34;other-languages&#34;&gt;&lt;strong&gt;Other languages&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;There are other popular PLs that may be of interest to data scientists. This section provides a brief overview of them.&lt;/p&gt;
-&lt;h1 id=&#34;c&#34;&gt;&lt;strong&gt;C++&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;Often, C++ is not used in the field of data science. However, it has lightning-fast performance and wide popularity. The main reason why C++ has not gained popularity in the field of data science is its inefficiency for such a purpose.&lt;/p&gt;
-&lt;p&gt;As one forum member wrote:
-“Suppose you are writing code to do some kind of custom analysis that will probably run only once. Now, would you rather spend 30 minutes creating a program that will run for 10 seconds or spend 10 minutes making a program that will run for 1 minute?”&lt;/p&gt;
-&lt;p&gt;And this guy is right! However, C++ would be an excellent choice for implementing low-level optimized machine learning algorithms.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Our verdict is not the best choice for daily work, but when it comes to performance&amp;hellip;&lt;/strong&gt;&lt;/p&gt;
-&lt;h1 id=&#34;javascript&#34;&gt;&lt;strong&gt;JavaScript&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;As the Node.js platform has evolved over the past few years, the JavaScript programming language has become more and more of a server-side language. However, its capabilities in the field of data science and machine learning are rather modest today (still, don&amp;rsquo;t forget about brain.js and synaptic.js!). The disadvantages of JavaScript include:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Too early for it to come into play (Node.js is only 8 years old!)&amp;hellip;&lt;/li&gt;
-&lt;li&gt;The Node.js platform is really fast, but there will always be those who will actively criticize JavaScript.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The undeniable advantages of Node.js include its asynchronous I/O, its growing popularity, and the fact that there are many languages ​​that compile with JavaScript. So it is quite possible that in the near future we will see a useful framework for data science work with the ability to process using ETL in real time. Another question: will it be relevant at that time &amp;hellip;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Our verdict - there is still a lot of work to be done in order for JavaScript to be considered a worthy language for working in the field of data science&lt;/strong&gt;&lt;/p&gt;
-&lt;h1 id=&#34;perl&#34;&gt;&lt;strong&gt;Perl&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;Perl is known as the &amp;ldquo;Swiss army knife of programming languages&amp;rdquo; because of its versatility as a general-purpose scripting language. It shares many similarities with Python, being a dynamically typed scripting language. But it is still very far from the popularity that Python has in the field of data science.&lt;/p&gt;
-&lt;p&gt;This is a little surprising, given its applications in areas that use quantitative methods, such as bioinformatics. When it comes to data science, Perl has several drawbacks: it won&amp;rsquo;t quickly become popular in the field, and its syntax is considered unfriendly. In addition, there are no attempts by its developers to create libraries that could be used in the field of data science. And as you and I know: often everything is decided by the right actions at the right time.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Our verdict is a useful general-purpose scripting language, but it certainly won&amp;rsquo;t get you a data scientist job&amp;hellip;&lt;/strong&gt;&lt;/p&gt;
-&lt;h1 id=&#34;ruby&#34;&gt;&lt;strong&gt;Ruby&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;Ruby is another dynamically typed general purpose interpreted language. However, it seems that its creators have no desire to make it suitable for data science jobs, as is the case with Python.&lt;/p&gt;
-&lt;p&gt;It may seem strange, but all of the above is in one way or another connected with the dominance of Python in the field of scientific research, as well as with the positive feedback from people who write in this language. The more people choose Python, the more modules and frameworks are developed for it, and the more programmers prefer Python. The SciRuby project was created to bring scientific computing functionality, such as matrix algebra, to Ruby. But, despite all these attempts, Python is still in the lead at the moment.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Our verdict is not exactly the right choice for data science, but knowledge of Ruby will not hurt on your resume&lt;/strong&gt;&lt;/p&gt;
-&lt;h1 id=&#34;conclusion&#34;&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;Well, here we are with you and reviewed a short guide to programming languages ​​that come closest to the field of data science. The important point here is understanding what you need more: the specificity or universality of the language, its convenience or efficiency.&lt;/p&gt;
-&lt;p&gt;I regularly use R, Python and SQL as my current work is mainly focused on developing existing data pipelines and ETL processes. These languages ​​strike the right balance of generality and efficiency to get the job done, with the ability to use more advanced R statistical packages when needed.&lt;/p&gt;
-&lt;p&gt;However, maybe you&amp;rsquo;re already pretty good at Java, or you can&amp;rsquo;t wait to try Scala&amp;rsquo;s big data action, or maybe you&amp;rsquo;re crazy about the Julia project.&lt;/p&gt;
-&lt;p&gt;Or maybe you crammed MATLAB in class at the institute, or would you like to give SciRuby a chance to prove yourself? Yes, you can have hundreds of different reasons! If so, then leave your comment below - because it is really important for us to know the opinion of each of you!&lt;/p&gt;
-&lt;h2 id=&#34;thank-you-for-your-attention&#34;&gt;&lt;strong&gt;Thank you for your attention!&lt;/strong&gt;&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>My week 09.05.2022 - 15.05.2022 (Этап 4)</title>
+      <title>Моя неделя 09.05.2022 - 15.05.2022 (Этап 4)</title>
       <link>https://galeginkikh.github.io/ru/post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
       <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
       <guid>https://galeginkikh.github.io/ru/post/getting-started-%D0%B4%D1%80%D1%83%D0%B3%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
-      <description>&lt;h1 id=&#34;my-week-09052022---15052022&#34;&gt;My week 09.05.2022 - 15.05.2022&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;моя-неделя-09052022---15052022&#34;&gt;Моя неделя 09.05.2022 - 15.05.2022&lt;/h1&gt;
 &lt;hr&gt;
-&lt;p&gt;This week started with a holiday. This is the day of victory. On this day, I had a fairly rich program. It was on this day that I returned to Moscow after a vacation. On the evening of May 9, there was a stunning solute.&lt;/p&gt;
+&lt;p&gt;Эта неделя началась с праздника. Это День Победы. В этот день у меня была довольно насыщенная программа. Именно в этот день я вернулся в Москву после отпуска. Вечером 9 мая был праздничный солют.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -487,7 +165,7 @@
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;Then, after a week of rest, I started training. It was necessary to complete and hand over all the debts. I did two more OS labs in advance. On the OS, I learned to work with two editors vi and emacs.&lt;/p&gt;
+&lt;p&gt;Затем, после недели отдыха, я приступила к работе. Необходимо было завершить и сдать все долги. Я заранее сделала еще две лабораторные работы по ОС. В операционной системе я научилась работать с двумя редакторами vi и emacs.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -516,7 +194,7 @@
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;I also devoted a lot of time to French.&lt;/p&gt;
+&lt;p&gt;Я также много времени уделяла французскому языку.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -545,342 +223,349 @@
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;This week has been quite productive.&lt;/p&gt;
+&lt;p&gt;Эта неделя была довольно продуктивной.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Report in markdown</title>
+      <title>Отчет в markdown</title>
       <link>https://galeginkikh.github.io/ru/post/getting-started-3-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
       <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
       <guid>https://galeginkikh.github.io/ru/post/getting-started-3-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
-      <description>&lt;h1 id=&#34;report-in-markdown&#34;&gt;&lt;strong&gt;Report in markdown&lt;/strong&gt;&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;отчет-в-markdown&#34;&gt;&lt;strong&gt;Отчет в markdown&lt;/strong&gt;&lt;/h1&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Report:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Отчет:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Title page&lt;/li&gt;
-&lt;li&gt;Content&lt;/li&gt;
-&lt;li&gt;Target&lt;/li&gt;
-&lt;li&gt;Theoretical introduction&lt;/li&gt;
-&lt;li&gt;Completing of the work&lt;/li&gt;
-&lt;li&gt;Conclusion&lt;/li&gt;
+&lt;li&gt;Титульный лист&lt;/li&gt;
+&lt;li&gt;Содержание&lt;/li&gt;
+&lt;li&gt;Цель&lt;/li&gt;
+&lt;li&gt;Теоретическое введение&lt;/li&gt;
+&lt;li&gt;Выполнение работы&lt;/li&gt;
+&lt;li&gt;Заключение&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt; is a lightweight markup language that is a tool for converting code to HTML.&lt;/p&gt;
-&lt;p&gt;The main feature of this language is the simplest syntax, which serves to simplify writing and reading markup code, which, in turn, makes it easy to correct it.&lt;/p&gt;
-&lt;p&gt;Now let&amp;rsquo;s take a closer look at the functions of the Markdown markup language.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Markdown&lt;/em&gt; - это облегченный язык разметки, который является инструментом для преобразования кода в HTML.&lt;/p&gt;
+&lt;p&gt;Главной особенностью этого языка является простейший синтаксис, который служит для упрощения написания и чтения кода разметки, что, в свою очередь, облегчает его исправление.&lt;/p&gt;
+&lt;p&gt;Теперь давайте подробнее рассмотрим функции языка разметки Markdown.&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Block elements&lt;/li&gt;
+&lt;li&gt;Блочные элементы&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Paragraphs and line breaks;&lt;/p&gt;
+&lt;p&gt;Параграфы и разрывы строк;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Headlines;&lt;/p&gt;
+&lt;p&gt;Заголовки;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Quotes;&lt;/p&gt;
+&lt;p&gt;Цитаты;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Lists;&lt;/p&gt;
+&lt;p&gt;Списки;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Code blocks;&lt;/p&gt;
+&lt;p&gt;Блоки кода;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Horizontal (dividing) lines.&lt;/p&gt;
+&lt;p&gt;Горизонтальные (разделительные) линии.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;Lowercase elements&lt;/li&gt;
+&lt;li&gt;Строчные элементы&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Links;&lt;/p&gt;
+&lt;p&gt;Ссылки;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Text selection;&lt;/p&gt;
+&lt;p&gt;Выделение текста;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Code fragments of strings;&lt;/p&gt;
+&lt;p&gt;Кодовые фрагменты строк;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Images.&lt;/p&gt;
+&lt;p&gt;Изображения.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;syntax-description&#34;&gt;&lt;strong&gt;SYNTAX DESCRIPTION&lt;/strong&gt;&lt;/h1&gt;
-&lt;h1 id=&#34;paragraphs-and-line-breaks&#34;&gt;Paragraphs and line breaks&lt;/h1&gt;
-&lt;p&gt;In order to create a paragraph using the syntax of the Markdown language, it is enough to separate the lines of text with one (or more) empty line (any line that contains nothing but spaces and tab characters is considered empty).&lt;/p&gt;
-&lt;p&gt;In order to insert a visible line break (the &lt;code&gt;&amp;lt;br/&amp;gt;&lt;/code&gt; element), you must end the line with two spaces and press the &amp;ldquo;Enter&amp;rdquo; key.&lt;/p&gt;
-&lt;p&gt;Many elements of the Markdown syntax look and work much better when they are formatted using &amp;ldquo;hard line translation&amp;rdquo; (line separation performed by the user himself, and not by the program automatically). Such elements include quotes, lists, etc.&lt;/p&gt;
-&lt;h1 id=&#34;headlines&#34;&gt;Headlines&lt;/h1&gt;
-&lt;p&gt;The Markdown markup language supports 2 styles of heading designations: underlining and highlighting with a symbol (&amp;quot;#&amp;quot;).&lt;/p&gt;
-&lt;p&gt;Headings are highlighted using underscores with equal signs (&amp;quot;=&amp;quot;) if the title is of the first level, and hyphens (&amp;quot;-&amp;quot;) if the title is of the second level. The number of underscores is not limited.&lt;/p&gt;
-&lt;p&gt;When selecting headers using the symbol (&amp;quot;#&amp;quot;), from one to six of these characters are used, which are set at the beginning of the line (before the header). In this case, the number of characters corresponds to the header level. In addition, it is possible to provide the title with closing characters (&amp;quot;#&amp;quot;), although this is not mandatory. The number of closing characters does not have to match the number of initial characters. The level of the header is determined by the number of initial characters.&lt;/p&gt;
-&lt;p&gt;The headings of the first and second levels, made using underscores, look like this:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;First level header
+&lt;h1 id=&#34;описание-синтаксиса&#34;&gt;&lt;strong&gt;ОПИСАНИЕ СИНТАКСИСА&lt;/strong&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;параграфы-и-разрывы-строк&#34;&gt;Параграфы и разрывы строк&lt;/h1&gt;
+&lt;p&gt;Для того, чтобы создать параграф с использованием синтаксиса языка Markdown, достаточно отделить строки текста одной (или более) пустой строкой (пустой считается всякая строка, которая не содержит в себе ничего, кроме пробелов и символов табуляции).&lt;/p&gt;
+&lt;p&gt;Для того, чтобы вставить видимый перенос строки (элемент &lt;code&gt;&amp;lt;br/&amp;gt;&lt;/code&gt;) необходимо окончить строку двумя пробелами и нажатием клавиши «Enter».&lt;/p&gt;
+&lt;p&gt;Многие элементы синтаксиса Markdown выглядят и работают гораздо лучше в случае, когда их форматируют с помощью «жесткого перевода строк» (разделение строк, осуществленное самим пользователем, а не программой автоматически). К таким элементам относятся цитаты, списки и пр.&lt;/p&gt;
+&lt;h1 id=&#34;заголовки&#34;&gt;Заголовки&lt;/h1&gt;
+&lt;p&gt;Язык разметки Markdown поддерживает 2 стиля обозначения заголовков: подчеркивание и выделение символом («#»).&lt;/p&gt;
+&lt;p&gt;Выделение заголовков с помощью подчеркивания производится знаками равенства («=») в случае, если заголовок первого уровня, и дефисами («-») в случае, если заголовок второго уровня. Количество знаков подчеркивания не ограничивается.&lt;/p&gt;
+&lt;p&gt;При выделении заголовков с помощью символа («#») используется от одного до шести данных символов, которые устанавливаются в начале строки (перед заголовком). В данном случае количество символов соответствует уровню заголовка. Кроме того, заголовок возможно снабдить закрывающимися символами («#»), хотя это и не является обязательным. Количество закрывающихся символов не обязано соответствовать количеству начальных символов. Уровень заголовка определяется по количеству начальных символов.&lt;/p&gt;
+&lt;p&gt;Заголовки первого и второго уровней, выполненные с помощью подчеркивания, выглядят следующим образом:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Заголовок первого уровня
 ========================
-Second level header
+Заголовок второго уровня
 -------------------------
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;The headings of the first, third and sixth levels, made using the symbol (&amp;quot;#&amp;quot;), look like this:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;# First level header
-### Third level header
-###### Sixth level header
+&lt;p&gt;Заголовки первого, третьего и шестого уровней, выполненные с помощью символа («#»), выглядят следующим образом:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;#  Заголовок первого уровня
+### Заголовок третьего уровня
+###### Заголовок шестого уровня
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;The above headings made with the symbol (&amp;quot;#&amp;quot;) are identical to the following:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;# First level header #
-### Third level header ###
-###### Sixth level header ######
+&lt;p&gt;Приведенные выше заголовки, выполненные с помощью символа («#») тождественны следующим:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;#  Заголовок первого уровня #
+### Заголовок третьего уровня ###
+###### Заголовок шестого уровня ######
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;As a result, the following is displayed on the screen:&lt;/p&gt;
-&lt;h1 id=&#34;first-level-header&#34;&gt;First level header&lt;/h1&gt;
-&lt;h2 id=&#34;second-level-header&#34;&gt;Second level header&lt;/h2&gt;
-&lt;h1 id=&#34;first-level-header-1&#34;&gt;First level header&lt;/h1&gt;
-&lt;h3 id=&#34;third-level-header&#34;&gt;Third level header&lt;/h3&gt;
-&lt;h6 id=&#34;sixth-level-header&#34;&gt;Sixth level header&lt;/h6&gt;
-&lt;h1 id=&#34;quotes&#34;&gt;Quotes&lt;/h1&gt;
-&lt;p&gt;The Markdown language uses the &amp;ldquo;more&amp;rdquo; (&amp;quot;&amp;gt;&amp;quot;) sign to indicate quotations. It can be inserted both before each line of the quotation, and only before the first line of the paragraph.&lt;/p&gt;
-&lt;p&gt;Also, the Markdown syntax allows you to create nested quotes (quotes inside quotes). Additional levels of citation marks (&amp;quot;&amp;gt;&amp;quot;) are used to mark them.&lt;/p&gt;
-&lt;p&gt;Quotes in Markdown can contain all kinds of markup elements.&lt;/p&gt;
-&lt;p&gt;Quotes in the Markdown language look like this:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;gt;This is an example of a quote,
-&amp;gt; in which an angle bracket is placed before each line.
+&lt;p&gt;В результате на экран выводится следующее:&lt;/p&gt;
+&lt;h1 id=&#34;заголовок-первого-уровня&#34;&gt;Заголовок первого уровня&lt;/h1&gt;
+&lt;h2 id=&#34;заголовок-второго-уровня&#34;&gt;Заголовок второго уровня&lt;/h2&gt;
+&lt;h1 id=&#34;заголовок-первого-уровня-1&#34;&gt;Заголовок первого уровня&lt;/h1&gt;
+&lt;h3 id=&#34;заголовок-третьего-уровня&#34;&gt;Заголовок третьего уровня&lt;/h3&gt;
+&lt;h6 id=&#34;заголовок-шестого-уровня&#34;&gt;Заголовок шестого уровня&lt;/h6&gt;
+&lt;h1 id=&#34;цитаты&#34;&gt;Цитаты&lt;/h1&gt;
+&lt;p&gt;Для обозначения цитат в языке Markdown используется знак «больше» («&amp;gt;»). Его можно вставлять как перед каждой строкой цитаты, так и только перед первой строкой параграфа.&lt;/p&gt;
+&lt;p&gt;Также синтаксис Markdown позволяет создавать вложенные цитаты (цитаты внутри цитат). Для их разметки используются дополнительные уровни знаков цитирования («&amp;gt;»).&lt;/p&gt;
+&lt;p&gt;Цитаты в Markdown могут содержать всевозможные элементы разметки.
+Цитаты в языке Markdown выглядят следующим образом:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;gt;Это пример цитаты,
+&amp;gt;в которой перед каждой строкой
+&amp;gt;ставится угловая скобка.
 
-&amp;gt;This is an example of a quote
-in which the angle bracket
-it is put only before the beginning of a new paragraph.
-&amp;gt;The second paragraph.
+&amp;gt;Это пример цитаты,
+в которой угловая скобка
+ставится только перед началом нового параграфа.
+&amp;gt;Второй параграф.
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Embedding a quote into a quote looks like this:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;gt; First level of citation
-&amp;gt;&amp;gt; Second level of citation
-&amp;gt;&amp;gt;&amp;gt; Third level of citation
+&lt;p&gt;Вложение цитаты в цитату выглядит следующим образом:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;gt; Первый уровень цитирования
+&amp;gt;&amp;gt; Второй уровень цитирования
+&amp;gt;&amp;gt;&amp;gt; Третий уровень цитирования
+&amp;gt;
+&amp;gt;Первый уровень цитирования
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;As a result, the following is displayed on the screen:&lt;/p&gt;
+&lt;p&gt;В результате на экран выводится следующее:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;This is an example quote,
-in which before each line
-an angle bracket is placed.&lt;/p&gt;
+&lt;p&gt;Это пример цитаты,
+в которой перед каждой строкой
+ставится угловая скобка.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;This is an example of a quote
-in which an angle bracket
-is placed just before the beginning of a new paragraph.&lt;/p&gt;
+&lt;p&gt;Это пример цитаты,
+в которой угловая скобка
+ставится только перед началом нового параграфа.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;The second paragraph.&lt;/p&gt;
+&lt;p&gt;Второй параграф.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Enclosed quote:&lt;/p&gt;
+&lt;p&gt;Вложенная цитата:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;First Citation level&lt;/p&gt;
+&lt;p&gt;Первый уровень цитирования&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Second level of citation&lt;/p&gt;
+&lt;p&gt;Второй уровень цитирования&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Third Citation Level&lt;/p&gt;
+&lt;p&gt;Третий уровень цитирования&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;First Citation Level&lt;/p&gt;
+&lt;p&gt;Первый уровень цитирования&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;The citation level cannot exceed the 15th.&lt;/p&gt;
-&lt;h1 id=&#34;lists&#34;&gt;Lists&lt;/h1&gt;
-&lt;p&gt;Markdown supports ordered (numbered) and unordered (unnumbered) lists.&lt;/p&gt;
-&lt;p&gt;Markers such as asterisks, pluses and hyphens are used to form unordered lists. All the listed markers can be used interchangeably.&lt;/p&gt;
-&lt;p&gt;To form ordered lists, numbers with a dot are used as markers. An important feature in this case is that the numbers themselves, with which the list is formed, are not important, since they do not affect the output HTML code. No matter how the user numbers the list, the output will in any case have an ordered list starting with one (1, 2, 3 &amp;hellip;). This feature should be taken into account when it is necessary to use the ordinal numbers of elements in the list so that they correspond to the numbers obtained in HTML.&lt;/p&gt;
-&lt;p&gt;Ordered lists should always start with one. List markers usually start from the beginning of the line, however, they can be shifted, but not more than 3 spaces&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;1. Explorer
-2. Semiconductor
-3. Dielectric
+&lt;p&gt;Уровень цитирования не может превышать 15-й.&lt;/p&gt;
+&lt;h1 id=&#34;списки&#34;&gt;Списки&lt;/h1&gt;
+&lt;p&gt;Markdown поддерживает упорядоченные (нумерованные) и неупорядоченные (ненумерованные) списки.&lt;/p&gt;
+&lt;p&gt;Для формирования неупорядоченный списков используются такие маркеры, как звездочки, плюсы и дефисы. Все перечисленные маркеры могут использоваться взаимозаменяемо.&lt;/p&gt;
+&lt;p&gt;Для формирования упорядоченных списков в качестве маркеров используются числа с точкой. Важной особенностью в данном случае является то, что сами номера, с помощью которых формируется список, не важны, так как они не оказывают влияния на выходной HTML код. Как бы ни нумеровал пользователь список, на выходе он в любом случае будет иметь упорядоченный список, начинающийся с единицы (1, 2, 3…). Эту особенность стоит учитывать в том случае, когда необходимо использовать порядковые номера элементов в списке, чтобы они соответствовали номерам, получающимся в HTML.&lt;/p&gt;
+&lt;p&gt;Упорядоченные списки всегда следует начинать с единицы. Маркеры списков обычно начинаются с начала строки, однако они могут быть сдвинуты, но не более чем на 3 пробела. За маркером должен следовать пробел, либо символ табуляции.&lt;/p&gt;
+&lt;p&gt;При  необходимости в список можно вставить цитату. В этом случае обозначения цитирования ( «&amp;gt;» ) нужно писать с отступом.
+Упорядоченные списки выглядят следующим образом:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;1.	Проводник
+2.	Полупроводник
+3.	Диэлектрик
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;The unordered lists look like this:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;* Explorer
-* Semiconductor
-* Dielectric
+&lt;p&gt;Неупорядоченные списки выглядят следующим образом:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;* Проводник
+* Полупроводник
+* Диэлектрик
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Or&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;- Guide
-- Semiconductor
-- Dielectric
+&lt;p&gt;Или&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;- Проводник
+- Полупроводник
+- Диэлектрик
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Or&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;+ Explorer
-+ Semiconductor
-+ Dielectric
+&lt;p&gt;Или&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;+ Проводник
++ Полупроводник
++ Диэлектрик
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;The output of all three listed options has the same result.&lt;/p&gt;
-&lt;p&gt;As a result, the following is displayed on the screen:&lt;/p&gt;
+&lt;p&gt;На выходе всех трех перечисленных вариантов имеется один и тот же результат.&lt;/p&gt;
+&lt;p&gt;В результате на экран выводится следующее:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Explorer&lt;/li&gt;
-&lt;li&gt;Semiconductor&lt;/li&gt;
-&lt;li&gt;Dielectric&lt;/li&gt;
+&lt;li&gt;Проводник&lt;/li&gt;
+&lt;li&gt;Полупроводник&lt;/li&gt;
+&lt;li&gt;Диэлектрик&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;and&lt;/p&gt;
+&lt;p&gt;и&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Explorer&lt;/li&gt;
-&lt;li&gt;Semiconductor&lt;/li&gt;
-&lt;li&gt;Dielectric&lt;/li&gt;
+&lt;li&gt;Проводник&lt;/li&gt;
+&lt;li&gt;Полупроводник&lt;/li&gt;
+&lt;li&gt;Диэлектрик&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;The quote inserted into the list looks like this:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;1. A list item with a quote:
+&lt;p&gt;Цитата, вставленная в список, выглядит следующим образом:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;1. Элемент списка с цитатой:
 
-    &amp;gt; This is a quote
-    &amp;gt; inside the list item.
+    &amp;gt; Это цитата
+    &amp;gt; внутри элемента списка.
 
-2. The second item of the list
+2. Второй элемент списка
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;As a result, the following is displayed on the screen:&lt;/p&gt;
+&lt;p&gt;В результате на экран выводится следующее:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;A list item with a quote:&lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;
+&lt;p&gt;Элемент списка с цитатой:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;This is a quote
-inside the list item.&lt;/p&gt;
+&lt;p&gt;Это цитата
+внутри элемента списка.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;The second item of the list&lt;/li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Второй элемент списка&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;When inserting quotes into the list items, it is important to keep in mind that the list items must be on the same level, and quotes must be indented. If the rule with a single list level is not followed, the next item in the list after the quote will be automatically numbered with the digit &amp;ldquo;1.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;In addition, if necessary, you can insert the source code into the list. In this case, it should be written with double indentation – 8 spaces or 2 tab characters.&lt;/p&gt;
+&lt;p&gt;При вставке цитат в элементы списка важно учитывать, что элементы списка должны находиться на одном уровне, а цитаты должны указываться с отступом. В случае, если правило с единым уровнем списка не соблюдается, следующий после цитаты элемент списка будет автоматически нумероваться цифрой «1.».&lt;/p&gt;
+&lt;p&gt;Кроме того, при необходимости в список можно вставить исходный код. В этом случае его нужно писать с двойным отступом – 8 пробелов или 2 символа табуляции.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;A list item containing the source code&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;source code &amp;gt;
+&lt;p&gt;Элемент списка, содержащий исходный код&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; &amp;lt;исходный код &amp;gt;  
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;code-blocks&#34;&gt;Code Blocks&lt;/h1&gt;
-&lt;p&gt;Formatted code blocks are used when it is necessary to quote the source code of programs or markup.&lt;/p&gt;
-&lt;p&gt;To create a block of code in the Markdown language, it is necessary to start each line of a paragraph with an indent consisting of four spaces or one tab character. The code block continues until there is a line without indentation (or the end of the text). Inside the code block, ampersands (&amp;quot;&amp;amp;&amp;quot;) and angle brackets (&amp;quot;&amp;lt;&amp;quot; and &amp;ldquo;&amp;gt;&amp;rdquo;) are automatically converted into HTML markup elements. In addition, it should be noted that inside the code blocks, the usual Markdown syntax is not processed.&lt;/p&gt;
-&lt;p&gt;The code block in Markdown looks like this:&lt;/p&gt;
-&lt;p&gt;This is a regular paragraph:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;This is a block of code
+&lt;h1 id=&#34;блоки-кода&#34;&gt;Блоки кода&lt;/h1&gt;
+&lt;p&gt;Отформатированные блоки кода используются в случае необходимости процитировать исходный код программ или разметки.&lt;/p&gt;
+&lt;p&gt;Для создания блока кода в языке Markdown необходимо каждую строку параграфа начинать  с отступа, состоящего из четырех пробелов или  одного символа табуляции. Блок кода продолжается до тех пор, пока не встретится строка без отступа (или конец текста).  Внутри блока кода амперсанды («&amp;amp;») и угловые скобки («&amp;lt;» и «&amp;gt;») автоматически преобразуются в элементы HTML разметки. Кроме того, следует отметить, что внутри блоков кода обычный синтаксис Markdown не обрабатывается.&lt;/p&gt;
+&lt;p&gt;Блок кода в Markdown выглядит следующим образом:&lt;/p&gt;
+&lt;p&gt;Это обычный параграф:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Это блок кода
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h1 id=&#34;horizontal-lines-separators&#34;&gt;Horizontal lines (separators)&lt;/h1&gt;
-&lt;p&gt;In order to create a horizontal line using the Markdown syntax, you need to place three (or more)a hyphen or asterisk on a separate line of text.&lt;/p&gt;
-&lt;p&gt;It is possible to place spaces between them.&lt;/p&gt;
-&lt;p&gt;Horizontal lines in Markdown look like this:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;The first part of the text to be divided
+&lt;h1 id=&#34;горизонтальные-линии-разделители&#34;&gt;Горизонтальные линии (разделители)&lt;/h1&gt;
+&lt;p&gt;Для того чтобы создать горизонтальную линию с использованием синтаксиса языка Markdown, необходимо поместить три (или более)дефиса или звездочки на отдельной строке текста. Между ними возможно располагать пробелы.&lt;/p&gt;
+&lt;p&gt;Горизонтальные линии в Markdown выглядят следующим образом:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Первая часть текста, который необходимо разделить
+
 ***
-The second part of the text that needs to be divided
+
+Вторая часть текста, который необходимо разделить
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Or&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;The first part of the text to be divided
+&lt;p&gt;Или&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Первая часть текста, который необходимо разделить
+
 ---
-The second part of the text that needs to be divided
+
+Вторая часть текста, который необходимо разделить
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;As a result, the following is displayed on the screen:&lt;/p&gt;
-&lt;p&gt;The first part of the text to be divided&lt;/p&gt;
+&lt;p&gt;В результате на экран выводится следующее:&lt;/p&gt;
+&lt;p&gt;Первая часть текста, который необходимо разделить&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;The second part of the text that needs to be divided&lt;/p&gt;
-&lt;p&gt;When using this tool, it is important to remember that an empty line must be left after the first part of the text and before the second. This rule must be observed only when using hyphens. If it is not followed, the second-level header and a line of plain text will be displayed on the screen. When using the asterisk symbol, this rule can be ignored.&lt;/p&gt;
-&lt;h1 id=&#34;lowercase-elements&#34;&gt;&lt;strong&gt;Lowercase elements&lt;/strong&gt;&lt;/h1&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
-&lt;p&gt;Markdown supports two styles of link design:&lt;/p&gt;
+&lt;p&gt;Вторая часть текста, который необходимо разделить&lt;/p&gt;
+&lt;p&gt;При использовании данного инструмента важно помнить, что после первой части текста и перед второй необходимо оставлять пустую строку. Данное правило необходимо соблюдать только при использовании дефисов. Если его не соблюдать, на экран будет выведен заголовок второго уровня и строка обычного текста.  При использовании символа звездочки данным правилом можно пренебречь.&lt;/p&gt;
+&lt;h2 id=&#34;строчные-элементы&#34;&gt;Строчные элементы&lt;/h2&gt;
+&lt;h1 id=&#34;ссылки&#34;&gt;Ссылки&lt;/h1&gt;
+&lt;p&gt;Markdown поддерживает два стиля оформления ссылок:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Hyperlink, with immediate indication of the address (in-text);&lt;/li&gt;
-&lt;li&gt;A hyperlink similar to a footnote.&lt;/li&gt;
+&lt;li&gt;Гиперссылка, с немедленным указанием адреса (внутритекстовая);&lt;/li&gt;
+&lt;li&gt;Гиперссылка, подобная сноске.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;It is assumed that in addition to the URL, there is also a link text. It is enclosed in square brackets.&lt;/p&gt;
-&lt;p&gt;To create an in-text hyperlink, you must use parentheses immediately after the closing square one. You need to put a URL inside them. It is also possible to place the name enclosed in quotation marks in them, which will be displayed when hovering, but this item is not mandatory.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;  [example](http://example.com / &amp;quot;Optional hint&amp;quot;)
+&lt;p&gt;Подразумевается, что помимо URL-адреса существует еще текст ссылки. Он заключается в квадратные скобки.&lt;/p&gt;
+&lt;p&gt;Для создания внутритекстовой гиперссылки необходимо использовать круглые скобки сразу после закрывающей квадратной. Внутри них необходимо поместить URL-адрес. В них же возможно расположить название, заключенное в кавычки, которое будет отображаться при наведении, но этот пункт не является обязательным.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  [пример](http://example.com/ &amp;quot;Необязательная подсказка&amp;quot;)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;As a result, the following is displayed on the screen: [example](&lt;a href=&#34;http://example.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://example.com&lt;/a&gt; / &amp;ldquo;Optional hint&amp;rdquo;)&lt;/p&gt;
-&lt;p&gt;When referring to a local directory, it is possible to use a relative path (from the current page, site, etc.)&lt;/p&gt;
-&lt;p&gt;When creating a passable hyperlink, a second pair of square brackets is used instead of the target address, inside which the label, the link identifier (id) is placed.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;[example][id]:
+&lt;p&gt;В результате на экран выводится следующее:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://example.com/&#34; title=&#34;Необязательная подсказка&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;пример&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;При ссылке на локальную директорию возможно использование относительного пути (от текущей страницы, сайта и т.п.)&lt;/p&gt;
+&lt;p&gt;При создании сносной гиперссылки вместо целевого адреса используется вторая пара квадратных скобок, внутри которых помещается метка, идентификатор ссылки (id).&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[пример][id]:
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Also, you can use a space to separate 2 pairs of square brackets:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;[example] [id]: 
+&lt;p&gt;Также, можно использовать пробел, чтобы отделять 2 пары квадратных скобок:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[пример] [id]: 
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;In this case, it is possible to determine the identifier anywhere in the document.:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;[id]: http://example.com / &amp;quot;Optional hint&amp;quot;
+&lt;p&gt;В этом случае возможно определить идентификатор в любом месте документа:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[id]: http://example.com/ &amp;quot;Необязательная подсказка&amp;quot;
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;As a result, the following is displayed on the screen:&lt;/p&gt;
-&lt;p&gt;[example] [id]: &lt;a href=&#34;http://example.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://example.com&lt;/a&gt; / &amp;ldquo;Optional hint&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;In other words, it consists of the following elements:&lt;/p&gt;
+&lt;p&gt;В результате на экран выводится следующее:&lt;/p&gt;
+&lt;p&gt;[пример] &lt;a href=&#34;http://example.com/&#34; title=&#34;Необязательная подсказка&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;id&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Иными словами, она состоит из следующих элементов:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Link ID surrounded by square brackets (which may be preceded by an optional indentation from one to three spaces);&lt;/li&gt;
-&lt;li&gt;Colon;&lt;/li&gt;
-&lt;li&gt;One or more spaces (or tab characters);&lt;/li&gt;
-&lt;li&gt;Hyperlink URL;&lt;/li&gt;
-&lt;li&gt;Optional title (a hint to the image that pops up when you hover over it) of the hyperlink, enclosed either in double or single quotes, or in parentheses.&lt;/li&gt;
+&lt;li&gt;Идентификатор ссылки, окружённый квадратными скобками (которым может предшествовать необязательный отступ от одного до трёх пробелов);&lt;/li&gt;
+&lt;li&gt;Двоеточие;&lt;/li&gt;
+&lt;li&gt;Один или несколько пробелов (или символов табуляции);&lt;/li&gt;
+&lt;li&gt;URL гиперссылки;&lt;/li&gt;
+&lt;li&gt;Необязательный заголовок (подсказка к изображению, которая всплывает при наведении на него) гиперссылки, заключённый либо в двойные или одиночные кавычки, либо в скобки.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Link identifiers can consist of letters, numbers, spaces, and punctuation marks, but they are not case sensitive. That is, these two options are equivalent:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;[link text][a]
-[link text][A]
+&lt;p&gt;Идентификаторы ссылок могут состоять из букв, цифр, пробелов и знаков пунктуации, однако они не чувствительны к регистру. То есть эти два варианта эквивалентны:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[текст ссылки][a]
+[текст ссылки][A]
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Markdown also allows you to use an implicitly expressed identifier (abbreviated). In this case, the label is not given, instead the hyperlink text is used as its name, and the second pair of square brackets remains empty.&lt;/p&gt;
-&lt;p&gt;For example, to make the word &amp;ldquo;Example&amp;rdquo; a hyperlink leading to the site &amp;lt;http://example.com /&amp;gt;, it is enough to write:&lt;/p&gt;
+&lt;p&gt;Markdown позволяет также использовать неявно выраженный идентификатор (сокращенный). В этом случае метка не приводится, вместо неё текст гиперссылки используется  и в качестве её имени, а вторая пара квадратных скобок остаётся пустою.&lt;/p&gt;
+&lt;p&gt;Например, чтобы сделать слово «Example» гиперссылкой, ведущей на сайт &lt;a href=&#34;http://example.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://example.com/&lt;/a&gt;, достаточно написать:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;[Example][]
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;and then define the hyperlink:&lt;/p&gt;
+&lt;p&gt;и затем определить гиперссылку:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;[Example]: http://example.com/
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;As a result, the following is displayed on the screen:
-[Example][]
-[Example]: &lt;a href=&#34;http://example.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://example.com/&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;text-selection&#34;&gt;Text selection&lt;/h1&gt;
-&lt;p&gt;Markdown perceives asterisks &amp;ldquo;*&amp;rdquo; and underscores &amp;ldquo;_&amp;rdquo; as signs of semantic text selection:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Text surrounded by single &amp;ldquo;*&amp;rdquo; or &amp;ldquo;_&amp;rdquo; will be enclosed in the HTML tag &lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Text surrounded by double &amp;ldquo;*&amp;rdquo; or &amp;ldquo;_&amp;rdquo; will be enclosed in the HTML tag &lt;code&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;In other words, text surrounded by single characters is highlighted in italics, and text surrounded by double characters is highlighted in bold.&lt;/p&gt;
-&lt;p&gt;Also, the selected fragment can be located in any part of the word.&lt;/p&gt;
-&lt;p&gt;The text in italics using the Markdown syntax looks like this:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;*Example* 
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;em&gt;Example&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;The text in bold using the Markdown syntax looks like this:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;**Example**
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The text in italics in bold using the Markdown syntax looks like this:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;***Example***
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Example&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;All the above examples are similar to the following:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;_example_
-
-__example__
-
-Re___distribution___division
-
-___example___
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h1 id=&#34;code-fragments-of-strings&#34;&gt;Code fragments of strings&lt;/h1&gt;
-&lt;p&gt;To mark a line fragment containing the code, it is necessary to surround it with reverse apostrophes &amp;ldquo;`&amp;rdquo;. When using code fragments of strings, the text will be displayed as a monospaced font.&lt;/p&gt;
-&lt;p&gt;Unlike code blocks, a code fragment allows you to put the code inside a regular paragraph of text.
-The code fragment of a string in the Markdown language looks like this:&lt;/p&gt;
-&lt;p&gt;Use the &lt;code&gt;if&lt;/code&gt; operator&lt;/p&gt;
-&lt;h1 id=&#34;images&#34;&gt;Images&lt;/h1&gt;
-&lt;p&gt;There are 2 ways to insert images into a document in Markdown:&lt;/p&gt;
-&lt;p&gt;a. By directly specifying the URL of the image. The syntax of this command is as follows:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;![Alternative text](/path/to/image.jpg)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;or&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;![Alternative text](/path/to/image.jpg &amp;quot;Hint&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;In other words, it consists of the following elements:&lt;/p&gt;
+&lt;p&gt;В результате на экран выводится следующее:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://example.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Example&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;выделение-текста&#34;&gt;Выделение текста&lt;/h1&gt;
+&lt;p&gt;Markdown воспринимает звёздочки «*» и символы подчёркивания «_» как признаки смыслового выделения текста:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;exclamation mark;&lt;/p&gt;
+&lt;p&gt;Текст, окружённый одиночными «*» или «_», будет заключен в HTML-тэг &lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;square brackets, which indicate the text alternative to the image (it will become the content of the attribute in the img element);&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;parentheses containing the URL or relative path of the image, as well as (optionally) a tooltip enclosed in double or single quotes.&lt;/p&gt;
+&lt;p&gt;Текст, окружённый двойными «*» или «_», будет заключен в HTML-тэг &lt;code&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;b. Using an identifier label. The syntax of this command is written as follows:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;![Alternative text][id]
+&lt;p&gt;Иными словами, текст, окруженный одинарными символами, выделяется курсивным шрифтом, а текст, окруженный двойными символами, выделяется полужирным шрифтом.&lt;/p&gt;
+&lt;p&gt;Также, выделенный фрагмент может находиться в любой части слова.
+Текст, выделенный курсивом с использованием синтаксиса языка Markdown, выглядит следующим образом:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;*Пример*  
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;where &amp;ldquo;id&amp;rdquo; is the name of a specific image label. Image labels are defined using a syntax that is completely identical to hyperlink labels:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;[id]: path/to/image &amp;quot;Optional hint&amp;quot;
+&lt;p&gt;&lt;em&gt;Пример&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Текст, выделенный полужирным шрифтом с использованием синтаксиса языка Markdown, выглядит следующим образом:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;**Пример**
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;An important feature is that Markdown does not allow you to set image dimensions (width, height).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Пример&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Текст, выделенный курсивным полужирным шрифтом с использованием синтаксиса языка Markdown выглядит следующим образом:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;***Пример***
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Пример&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Все приведенные выше примеры аналогичны следующим:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;_Пример_
+
+__Пример__
+
+Пере___распред___деление
+
+___Пример___  
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;кодовые-фрагменты-строк&#34;&gt;Кодовые фрагменты строк&lt;/h1&gt;
+&lt;p&gt;Чтобы отметить фрагмент строки, содержащий код, необходимо окружить его обратными апострофами «`».  При использовании кодовых фрагментов строк текст будет отображаться в виде моноширинного шрифта.&lt;/p&gt;
+&lt;p&gt;В отличие от блоков кода, кодовый фрагмент позволяет поместить код внутрь обычного абзаца текста.&lt;/p&gt;
+&lt;p&gt;Кодовый фрагмент строки в языке Markdown выглядит следующим образом:&lt;/p&gt;
+&lt;p&gt;Используйте оператор &lt;code&gt;if&lt;/code&gt;&lt;/p&gt;
+&lt;h1 id=&#34;изображения&#34;&gt;Изображения&lt;/h1&gt;
+&lt;p&gt;В Markdown существует 2 способа вставки изображений в документ:&lt;/p&gt;
+&lt;p&gt;a.	С помощью непосредственного указания URL-адреса изображения. Синтаксис данной команды выглядит следующим образом:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;![Альтернативный текст](/путь/к/изображению.jpg)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;или&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;![Альтернативный текст](/путь/к/изображению.jpg &amp;quot;Подсказка&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Иными словами, он состоит из следующих элементов:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;восклицательный знак;&lt;/li&gt;
+&lt;li&gt;квадратные скобки, в которых указывается альтернативный изображению текст (он станет содержимым атрибута в элементе img);&lt;/li&gt;
+&lt;li&gt;круглые скобки, содержащие URL-адрес или относительный путь изображения, а также (необязательно) всплывающую подсказку, заключённуе в двойные или одиночные кавычки.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;b.	С помощью метки-идентификатора.  Синтаксис данной команды записывается следующим образом:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;![Альтернативный текст][id]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;где «id» — имя определённой метки изображения. Метки изображений определяются при помощи синтаксиса, совершенно идентичного меткам гиперссылок:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[id]: путь/к/изображению &amp;quot;Необязательная подсказка&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Важной особенностью является то, что Markdown не позволяет задать размеры изображения (ширину, высоту).&lt;/p&gt;
 </description>
     </item>
     
